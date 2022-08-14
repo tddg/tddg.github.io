@@ -58,7 +58,7 @@ button below for more information.
 </style>
 
 <div class="text-center">
-<a href="#" class="button-13">
+<a href="https://ds2-lab.github.io" class="button-13">
   Visit the D<font size="3px">S</font><sup>2</sup> Lab
 </a>
 </div>
