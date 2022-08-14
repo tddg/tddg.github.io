@@ -42,7 +42,7 @@ management by using learned or data-driven approaches.
 
 Prior to joining UVA, I was an Assistant Professor of 
 [Computer Science](https://cs.gmu.edu/){:target="\_blank"} at 
-[George Mason University](https://www.gmu.edu/){:target="\_blank"}, from 17-22.
+[George Mason University](https://www.gmu.edu/){:target="\_blank"}, from 2017 to 2022.
 
 I received my Ph.D. degree from  [Computer Science](https://cs.vt.edu/){:target="\_blank"} at
 [Virginia Tech](https://vt.edu/){:target="\_blank"}. 
