@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am an Assistant Professor of [Data Science](https://datascience.virginia.edu/){:target="\_blank"} 
 and [Computer Science](https://engineering.virginia.edu/departments/computer-science){:target="\_blank"} at
-[the University of Virginia](https://www.virginia.edu/){:target="\_blank"}. 
+the [University of Virginia](https://www.virginia.edu/){:target="\_blank"}. 
 I am interested in designing scalable, high-performance, and
 easy-to-use computer **systems** that manage and process huge volume of
 **data**.
