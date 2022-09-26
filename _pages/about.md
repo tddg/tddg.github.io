@@ -41,9 +41,11 @@ and (3) **ML4Sys:** improving systems software and infrastructure
 management by using learned or data-driven approaches.
 
 I am the recipient of an 
-[NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2045680&HistoricalAwards=false){:target="\_blank"}, 
-an Amazon Research Award, 
-and a Meta Research Award.
+[NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2045680&HistoricalAwards=false){:target="\_blank"} (2021), 
+an Amazon Research Award (2021), 
+a Meta Research Award (2022),
+and the IEEE CS TCHPC Early Career Researchers Award for Excellence
+in High Performance Computing (2022).
 Prior to joining UVA, I was an Assistant Professor of 
 [Computer Science](https://cs.gmu.edu/){:target="\_blank"} at 
 [George Mason University](https://www.gmu.edu/){:target="\_blank"}, from 2017 to 2022.
