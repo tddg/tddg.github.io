@@ -49,7 +49,8 @@ in High Performance Computing (2022).
 Prior to joining UVA, I was an Assistant Professor of 
 [Computer Science](https://cs.gmu.edu/){:target="\_blank"} at 
 [George Mason University](https://www.gmu.edu/){:target="\_blank"}, from 2017 to 2022.
-I received my Ph.D. degree from  [Computer Science](https://cs.vt.edu/){:target="\_blank"} at
-[Virginia Tech](https://vt.edu/){:target="\_blank"}. 
+I received my Ph.D. degree of [Computer Science](https://cs.vt.edu/){:target="\_blank"} from
+[Virginia Tech](https://vt.edu/){:target="\_blank"}, working with Dr.
+[Ali R. Butt](https://people.cs.vt.edu/butta/){:target="\_blank"}. 
 During my Ph.D. I spent two summers at IBM Research Almaden in 2013
 and 2014, and six months at Dell EMC Princeton Office in 2015. 
