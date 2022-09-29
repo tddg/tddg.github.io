@@ -43,7 +43,7 @@ management by using learned or data-driven approaches.
 I am the recipient of an 
 [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2045680&HistoricalAwards=false){:target="\_blank"} (2021), 
 an Amazon Research Award (2021), 
-a Meta Research Award (2022),
+a [Meta Research Award](https://research.facebook.com/blog/2022/9/announcing-the-winners-of-the-2022-ai-system-hardwaresoftware-codesign-request-for-proposals/?locale=en_US&draft=1284382378973290){:target="\_blank"} (2022),
 and the IEEE CS TCHPC Early Career Researchers Award for Excellence
 in High Performance Computing (2022).
 Prior to joining UVA, I was an Assistant Professor of 
