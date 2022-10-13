@@ -19,7 +19,7 @@ nav_order: 7
 
 # Supporting Materials
 
-## Research
+## Evidentiary Materials for Research, Scholarship
 
 * Selected recent publications ([Complete list of publications](https://tddg.github.io/publication/){:target="\_blank"})
 	- [SFS: Smart OS Scheduling for Serverless Functions](https://arxiv.org/abs/2209.01709){:target="\_blank"} <br/>
