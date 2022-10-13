@@ -51,7 +51,7 @@ nav_order: 7
 	Ali Anwar, Yue Cheng, Hai Huang, Jingoo Han, Hyogi Sim, Dongyoon Lee, Fred Douglis, Ali R. Butt <br/>
 	The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC'18) [Acceptance rate = 23.6%]
 
-	- [Improving Docker Registry Design based on Production Workload Analysis](https://tddg.github.io/assets/pdf/fast18-docker.pdf){:target=:"\_blank"} <br/>
+	- [Improving Docker Registry Design based on Production Workload Analysis](https://tddg.github.io/assets/pdf/fast18-docker.pdf){:target="\_blank"} <br/>
 	Ali Anwar, Mohamed Mohamed, Vasily Tarasov, Michael Littley, Lukas Rupprecht, Yue Cheng, Nannan Zhao, Dimitrios Skourtis, Amit S. Warke, Heiko Ludwig, Dean Hildebrand, Ali R. Butt <br/>
 	USENIX Conference on File and Storage Techniques 2018 (USENIX FAST'18) [Acceptance rate = 16.4%]
 
@@ -96,7 +96,7 @@ nav_order: 7
 	- CS 675: Distributed Systems [Spring'20]: [evaluation form](https://tddg.github.io/assets/pdf/tenure/CS-675-S20-Informal.pdf){:target="\_blank"} [**formal course evaluation cancelled university-wide due to COVID**]
 	- CS 471: Operating Systems [Fall'19]: [evaluation form](https://tddg.github.io/assets/pdf/tenure/CS-471-F19.pdf){:target="\_blank"}
 	- CS 471: Operating Systems [Spring'19]: [evaluation form](https://tddg.github.io/assets/pdf/tenure/CS-471-S19.pdf){:target="\_blank"}
-	- CS 795: Cloud Computing [Fall'18]: [evaluation form](https://tddg.github.io/assets/pdf/tenure/CS-796-F18.pdf){:target="\_blank"}
+	- CS 795: Cloud Computing [Fall'18]: [evaluation form](https://tddg.github.io/assets/pdf/tenure/CS-795-F18.pdf){:target="\_blank"}
 	- CS 471: Operating Systems [Fall'17]: [evaluation form](https://tddg.github.io/assets/pdf/tenure/CS-471-F17.pdf){:target="\_blank"}
 
 
