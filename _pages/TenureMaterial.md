@@ -10,10 +10,10 @@ nav_order: 7
 # Statements and Vita
 
 * [Research Scholarship Statement](https://tddg.github.io/assets/pdf/tenure/YueCheng_Research_Scholarship_Statement.pdf){:target="\_blank"}
-* [DS Statement](https://tddg.github.io/assets/pdf/tenure/YueCheng_DS_Statement.pdf){:target="\_blank"}
+* [Contributing to Data Science Field Statement](https://tddg.github.io/assets/pdf/tenure/YueCheng_DS_Statement.pdf){:target="\_blank"}
 * [Teaching Statement](https://tddg.github.io/assets/pdf/tenure/YueCheng_Teaching_Statement.pdf){:target="\_blank"}
 * [Service Statement](https://tddg.github.io/assets/pdf/tenure/YueCheng_Service_Statement.pdf){:target="\_blank"}
-* [Collaboration Statement](https://tddg.github.io/assets/pdf/tenure/YueCheng_Collaboration_Statement.pdf){:target="\_blank"}
+* [Examples of Collaboration Statement](https://tddg.github.io/assets/pdf/tenure/YueCheng_Collaboration_Statement.pdf){:target="\_blank"}
 * [Curriculum Vitae](https://tddg.github.io/assets/pdf/tenure/YueCheng_CV.pdf){:target="\_blank"}
 
 
