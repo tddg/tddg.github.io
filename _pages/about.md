@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor of Data Science and Computer Science at UVA
+subtitle: Assistant Professor at the University of Virginia
 
 profile:
   align: right
