@@ -10,7 +10,7 @@ nav_order: 7
 # Statements and Vita
 
 * [Research Scholarship Statement](https://tddg.github.io/assets/pdf/tenure/YueCheng_Research_Scholarship_Statement.pdf){:target="\_blank"}
-* [Contributing to Data Science Field Statement](https://tddg.github.io/assets/pdf/tenure/YueCheng_DS_Statement.pdf){:target="\_blank"}
+<!--* [Contributing to Data Science Field Statement](https://tddg.github.io/assets/pdf/tenure/YueCheng_DS_Statement.pdf){:target="\_blank"}-->
 * [Teaching Statement](https://tddg.github.io/assets/pdf/tenure/YueCheng_Teaching_Statement.pdf){:target="\_blank"}
 * [Service Statement](https://tddg.github.io/assets/pdf/tenure/YueCheng_Service_Statement.pdf){:target="\_blank"}
 * [Examples of Collaboration Statement](https://tddg.github.io/assets/pdf/tenure/YueCheng_Collaboration_Statement.pdf){:target="\_blank"}
@@ -100,7 +100,7 @@ nav_order: 7
 	- CS 471: Operating Systems [Fall'17]: [evaluation form](https://tddg.github.io/assets/pdf/tenure/CS-471-F17.pdf){:target="\_blank"}
 
 
-* [Summer Impact Project Grant Proposal (Spring'18)](https://tddg.github.io/assets/pdf/tenure/IoT_baseball_proposal.pdf){:target="\_blank"}
+<!--* [Summer Impact Project Grant Proposal (Spring'18)](https://tddg.github.io/assets/pdf/tenure/IoT_baseball_proposal.pdf){:target="\_blank"}-->
 
 * [List of students advised](https://tddg.github.io/assets/pdf/tenure/YueCheng_Student_Advising.pdf){:target="\_blank"}
 
