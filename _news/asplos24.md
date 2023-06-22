@@ -11,4 +11,4 @@ milestone of our serverless storage project series.
 Don't forget to check out our projects: 
 **Episode I** - [InfiniCache](https://tddg.github.io/assets/pdf/fast20-infinicache.pdf){:target="\_blank"}, 
 **Episode II** - [InfiniStore](https://tddg.github.io/assets/pdf/vldb23-infinistore.pdf){:target="\_blank"}, 
-and our latest work, **Episode III** - λFS (preprint forthcoming).
+and our latest work, **Episode III** - [λFS](https://arxiv.org/abs/2306.11877){:target="\_blank"}.
