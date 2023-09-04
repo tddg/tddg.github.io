@@ -34,7 +34,7 @@ end-to-end approach that cuts across the entire software-hardware
 stack: *(stateful) applications, middleware, platforms, and
 lower-level OS/HW*; 
 (2) **Sys4ML:** building better (computing and storage) systems for
-distributed machine learning; 
+(distributed) ML applications; 
 and (3) **ML4Sys:** improving systems software and infrastructure
 management by using learned or data-driven approaches.
 
