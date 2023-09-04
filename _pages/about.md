@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor at the University of Virginia
+subtitle: Associate Professor at the University of Virginia
 
 profile:
   align: right
@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor of [Data Science](https://datascience.virginia.edu/){:target="\_blank"} 
+I am an Associate Professor of [Data Science](https://datascience.virginia.edu/){:target="\_blank"} 
 and [Computer Science](https://engineering.virginia.edu/departments/computer-science){:target="\_blank"} at
 the [University of Virginia](https://www.virginia.edu/){:target="\_blank"}. 
 My research covers a range of topics including distributed systems,
