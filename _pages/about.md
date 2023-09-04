@@ -32,9 +32,7 @@ Currently I am working on:
 (1) **Serverless and FaaS:** improving serverless computing using a
 end-to-end approach that cuts across the entire software-hardware
 stack: *(stateful) applications, middleware, platforms, and
-lower-level OS/HW*
-(watch this Youtube video summarizing our recent focus on serverless
-computing); 
+lower-level OS/HW*; 
 (2) **Sys4ML:** building better (computing and storage) systems for
 distributed machine learning; 
 and (3) **ML4Sys:** improving systems software and infrastructure
