@@ -5,7 +5,7 @@ inline: true
 ---
 
 Congrats to Ben, Runzhou, and Jingyuan on the acceptance of λFS
-to [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/){:target="\_blank"}!
+to [ASPLOS 2023](https://www.asplos-conference.org/asplos2023/){:target="\_blank"}!
 The acceptance of λFS at ASPLOS'24 marks yet another significant
 milestone of our serverless storage project series. 
 Don't forget to check out our projects: 
