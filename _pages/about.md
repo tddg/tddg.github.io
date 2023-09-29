@@ -59,7 +59,7 @@ and 2014, and six months at Dell EMC Princeton Office in 2015.
 Most of my proejcts are open-source and available on my research group's [GitHub page](https://github.com/ds2-lab){:target="\_blank"}.
 
 
-* **InfiniStore:** Storing large and small objects on a dynamic fleet of serverless functions with only 3% of the ElastiCache's cost but without sacrificing performance and availability.  
+* **InfiniStore:** Storing large and small objects on a dynamic fleet of serverless functions with only 3% of ElastiCache's cost but without sacrificing performance and availability.  
   [[ASPLOS'23](https://arxiv.org/abs/2306.11877){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/LambdaFS){:target="\_blank"}] -- 
   [[VLDB'23](http://127.0.0.1:4000/assets/pdf/vldb23-infinistore.pdf){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/infinistore){:target="\_blank"}] --
   [[FAST'20](https://www.usenix.org/conference/fast20/presentation/wang-ao){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/infinicache){:target="\_blank"}]
