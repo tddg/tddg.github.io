@@ -52,3 +52,32 @@ I received my Ph.D. degree in [Computer Science](https://cs.vt.edu/){:target="\_
 [Ali R. Butt](https://people.cs.vt.edu/butta/){:target="\_blank"}. 
 During my Ph.D. I spent two summers at IBM Research Almaden in 2013
 and 2014, and six months at Dell EMC Princeton Office in 2015. 
+
+
+## selected projects
+
+Most of my proejcts are open-source and available on my research group's [GitHub page](https://github.com/ds2-lab){:target="\_blank"}.
+
+
+* **InfiniStore:** Storing large and small objects on a dynamic fleet of serverless functions without sacrificing performance and availability.  
+  [[ASPLOS'23](https://arxiv.org/abs/2306.11877){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/LambdaFS){:target="\_blank"}] -- 
+  [[VLDB'23](http://127.0.0.1:4000/assets/pdf/vldb23-infinistore.pdf){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/infinistore){:target="\_blank"}] --
+  [[FAST'20](https://www.usenix.org/conference/fast20/presentation/wang-ao){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/infinicache){:target="\_blank"}]
+
+* **Wukong:** Scaling out Python parallel programs on FaaS without worrying about tedious cluster management.  
+  [[SoCC'20](http://127.0.0.1:4000/assets/pdf/socc20-wukong.pdf){:target="\_blank"}] 
+  [[PDSW'19](https://arxiv.org/abs/1910.05896){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/Wukong){:target="\_blank"}]
+
+* **FaaSNet:** A highly scalable container provisioning framework that can provision thousands of 10+GB serverless function containers with just a few seconds. FaaSNet is currently deployed at [Alibaba Function Compute](https://www.alibabacloud.com/product/function-compute){:target="\_blank"}.  
+  [[ATC'21](https://www.usenix.org/conference/atc21/presentation/wang-ao){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/FaaSNet){:target="\_target"}] [[Alibaba Cloud Blog](https://www.alibabacloud.com/blog/597937){:target="\_blank"}]
+  
+* **SFS:** Linux CFS is not ideal for short-lived serverless function workloads. SFS instead optimizes the turnaround time for transient function jobs.  
+  [[SC'22](https://arxiv.org/abs/2209.01709){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/SFS){:target="\_blank"}] 
+
+* **SHADE:** A common practice in deep learning training is to randomly shuffle all training samples epoch by epoch. With SHADE, you can cache the most important training samples without losing training quality.  
+  [[FAST'23](https://www.usenix.org/conference/fast23/presentation/khan)]: [[GitHub](https://github.com/R-I-S-Khan/SHADE){:target="\_blank"}] 
+
+* **DIGEST:** Scaling GNN training using a disaggregated storage.  
+  [[arXiv](https://arxiv.org/abs/2206.00057){:target="\_blank"}]: [[code](#)]
+
+
