@@ -56,7 +56,7 @@ and 2014, and six months at Dell EMC Princeton Office in 2015.
 
 ## selected projects
 
-Most of my proejcts are open-source and available on my research group's [GitHub page](https://github.com/ds2-lab){:target="\_blank"}.
+Most of my proejcts are open-source and available on our group's [GitHub page](https://github.com/ds2-lab){:target="\_blank"}.
 
 
 * **InfiniStore:** Storing large and small objects on a dynamic fleet of serverless functions with only 3% of ElastiCache's cost but without sacrificing performance and availability.  
