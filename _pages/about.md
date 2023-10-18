@@ -61,11 +61,11 @@ Most of my proejcts are open-source and available on our group's [GitHub page](h
 
 * **InfiniStore:** Storing large and small objects on a dynamic fleet of serverless functions with only 3% of ElastiCache's cost but without sacrificing performance and availability.  
   [[ASPLOS'23](https://arxiv.org/abs/2306.11877){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/LambdaFS){:target="\_blank"}] -- 
-  [[VLDB'23](http://127.0.0.1:4000/assets/pdf/vldb23-infinistore.pdf){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/infinistore){:target="\_blank"}] --
+  [[VLDB'23](https://tddg.github.io/assets/pdf/vldb23-infinistore.pdf){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/infinistore){:target="\_blank"}] --
   [[FAST'20](https://www.usenix.org/conference/fast20/presentation/wang-ao){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/infinicache){:target="\_blank"}]
 
 * **Wukong:** Scaling out Python parallel programs (e.g., Dask applications) on FaaS without worrying about tedious cluster management. Wukong uses a new decentralized scheduling technique, which decentralizes resource orchestration to each individual serverless function, thereby enabling high elasticity and high scalability.  
-  [[SoCC'20](http://127.0.0.1:4000/assets/pdf/socc20-wukong.pdf){:target="\_blank"}] 
+  [[SoCC'20](https://tddg.github.io/assets/pdf/socc20-wukong.pdf){:target="\_blank"}] 
   [[PDSW'19](https://arxiv.org/abs/1910.05896){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/Wukong){:target="\_blank"}]
 
 * **FaaSNet:** A highly scalable container provisioning framework that can provision thousands of 10+GB serverless function containers with just a few seconds. FaaSNet is currently deployed at [Alibaba Function Compute](https://www.alibabacloud.com/product/function-compute){:target="\_blank"}.  
