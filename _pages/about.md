@@ -44,7 +44,7 @@ an Amazon Research Award (2021),
 a [Meta Research Award](https://research.facebook.com/blog/2022/9/announcing-the-winners-of-the-2022-ai-system-hardwaresoftware-codesign-request-for-proposals/?locale=en_US&draft=1284382378973290){:target="\_blank"} (2022),
 [the IEEE CS TCHPC Early Career Researchers Award for Excellence
 in HPC](https://tc.computer.org/tchpc/2022/10/06/2022-ieee-cs-tchpc-award-winners/){:target="\_blank"} (2022), 
-and a Samsung GRO 2023 Award (2023).
+and [a Samsung GRO 2023 Award](https://www.sait.samsung.co.kr/saithome/about/collabo_recipients.do){:target="\_blank"} (2023).
 Prior to joining UVA, I was an Assistant Professor of 
 [Computer Science](https://cs.gmu.edu/){:target="\_blank"} at 
 [George Mason University](https://www.gmu.edu/){:target="\_blank"}, from 2017 to 2022.
