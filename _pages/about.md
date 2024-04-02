@@ -33,7 +33,7 @@ Currently I am working on:
 end-to-end approach that cuts across the entire software-hardware
 stack: *(stateful) applications, middleware, platforms, and
 lower-level OS/HW*; 
-(2) **data compression:** rethinking data reduction techniques for
+(2) **Data Reduction:** rethinking data reduction techniques for
 large data-intensive applications;
 (3) **Sys4ML:** building better (computing and storage) systems for
 (distributed) ML applications; 
