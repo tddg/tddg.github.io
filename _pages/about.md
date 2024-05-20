@@ -9,7 +9,7 @@ profile:
   image: YueCheng.png
   image_cicular: 
   address: >
-    <p><a href="mailto:mrz7dp@virginia.edu"><i class="fas fa-envelope"></i> mrz7dp@virginia.edu</a></p>
+    <p><a href="mailto:mrz7dp@virginia.edu"><i class="fas fa-envelope"></i> mrz7dp _AT_ virginia.edu</a></p>
     <p>SDS,CS@UVA </p>
     <p>Data Systems Researcher</p>
 
