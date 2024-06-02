@@ -63,25 +63,22 @@ and 2014, and six months at Dell EMC Princeton Office in 2015.
 Most of my projects are open-source and available on our group's [GitHub page](https://github.com/ds2-lab){:target="\_blank"}.
 
 
-* **InfiniStore:** Storing large and small objects on a dynamic fleet of serverless functions with only 3% of ElastiCache's cost but without sacrificing performance and availability.  
+* **Serverless Cloud Storage:** Storing large and small objects on a dynamic fleet of serverless functions with only 3% of ElastiCache's cost but without sacrificing performance and availability.  
   [[ASPLOS'23](https://tddg.github.io/assets/pdf/asplos23-lambdafs-ae.pdf){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/LambdaFS){:target="\_blank"}] -- 
   [[VLDB'23](https://tddg.github.io/assets/pdf/vldb23-infinistore.pdf){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/infinistore){:target="\_blank"}] --
   [[FAST'20](https://www.usenix.org/conference/fast20/presentation/wang-ao){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/infinicache){:target="\_blank"}]
 
-* **Wukong:** Scaling out Python parallel programs (e.g., Dask applications) on FaaS without worrying about tedious cluster management. Wukong uses a new decentralized scheduling technique, which decentralizes resource orchestration to each individual serverless function, thereby enabling high elasticity and high scalability.  
+* **Serverless Parallel Computing:** Scaling out Python parallel programs (e.g., Dask applications) on FaaS without worrying about tedious cluster management. Wukong uses a new decentralized scheduling technique, which decentralizes resource orchestration to each individual serverless function, thereby enabling high elasticity and high scalability.  
   [[SoCC'20](https://tddg.github.io/assets/pdf/socc20-wukong.pdf){:target="\_blank"}] 
   [[PDSW'19](https://arxiv.org/abs/1910.05896){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/Wukong){:target="\_blank"}]
 
-* **FaaSNet:** A highly scalable container provisioning framework that can provision thousands of 10+GB serverless function containers with just a few seconds. FaaSNet is currently deployed at [Alibaba Function Compute](https://www.alibabacloud.com/product/function-compute){:target="\_blank"}.  
+* **FaaS Platform Management:** A highly scalable container provisioning framework that can provision thousands of 10+GB serverless function containers with just a few seconds. FaaSNet is currently deployed at [Alibaba Function Compute](https://www.alibabacloud.com/product/function-compute){:target="\_blank"}.  
   [[ATC'21](https://www.usenix.org/conference/atc21/presentation/wang-ao){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/FaaSNet){:target="\_target"}] [[Alibaba Cloud Blog](https://www.alibabacloud.com/blog/597937){:target="\_blank"}]
   
-* **SFS:** Linux CFS is not ideal for short-lived serverless function workloads. SFS instead optimizes the turnaround time for transient function jobs.  
-  [[SC'22](https://arxiv.org/abs/2209.01709){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/SFS){:target="\_blank"}] 
+* **Serverless Function OS Scheduling:** Linux CFS is not ideal for short-lived serverless function workloads. SFS instead optimizes the turnaround time for transient function jobs.  
+  [[SC'22](https://arxiv.org/abs/2209.01709){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/SFS){:target="\_blank"}] -- [[ATC'24 (forthcoming)](#)]
 
-* **SHADE:** A common practice in deep learning training is to randomly shuffle all training samples epoch by epoch. With SHADE, you can cache the most important training samples without losing training quality.  
-  [[FAST'23](https://www.usenix.org/conference/fast23/presentation/khan)]: [[GitHub](https://github.com/R-I-S-Khan/SHADE){:target="\_blank"}] 
-
-* **DIGEST:** Scaling GNN training using a disaggregated storage.  
-  [[arXiv](https://arxiv.org/abs/2206.00057){:target="\_blank"}]: [[code](#)]
+* **Storage for Deep Learning:** A common practice in deep learning training is to randomly shuffle all training samples epoch by epoch. With SHADE, you can cache the most important training samples without losing training quality.  
+  [[FAST'23](https://www.usenix.org/conference/fast23/presentation/khan)]: [[GitHub](https://github.com/R-I-S-Khan/SHADE){:target="\_blank"}] -- [[arXiv](https://arxiv.org/abs/2206.00057){:target="\_blank"}]: [[code](#)]
 
 
