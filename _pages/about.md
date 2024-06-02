@@ -75,7 +75,9 @@ Most of my projects are open-source and available on our group's [GitHub page](h
 * **FaaS Platform Management:** A highly scalable container provisioning framework that can provision thousands of 10+GB serverless function containers with just a few seconds. FaaSNet is currently deployed at [Alibaba Function Compute](https://www.alibabacloud.com/product/function-compute){:target="\_blank"}.  
   [[ATC'21](https://www.usenix.org/conference/atc21/presentation/wang-ao){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/FaaSNet){:target="\_target"}] [[Alibaba Cloud Blog](https://www.alibabacloud.com/blog/597937){:target="\_blank"}]
   
-* **Serverless Function OS Scheduling:** Linux CFS is not ideal for short-lived serverless function workloads. SFS instead optimizes the turnaround time for transient function jobs.  
+* **Serverless Function OS Scheduling:** Linux CFS is not ideal for
+short-lived serverless function workloads. This project rethinks OS
+scheduling to minimize function turnaround time.  
   [[SC'22](https://arxiv.org/abs/2209.01709){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/SFS){:target="\_blank"}] -- [[ATC'24 (forthcoming)](#)]
 
 * **Storage for Deep Learning:** A common practice in deep learning training is to randomly shuffle all training samples epoch by epoch. With SHADE, you can cache the most important training samples without losing training quality.  
