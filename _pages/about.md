@@ -81,6 +81,6 @@ scheduling to minimize function turnaround time.
   [[SC'22](https://arxiv.org/abs/2209.01709){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/SFS){:target="\_blank"}] -- [[ATC'24](https://tddg.github.io/assets/pdf/atc24-alps-ae.pdf){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/ALPS){:target="\_blank"}]
 
 * **Storage for Deep Learning:** A common practice in deep learning training is to randomly shuffle all training samples epoch by epoch. With SHADE, you can cache the most important training samples without losing training quality.  
-  [[FAST'23](https://www.usenix.org/conference/fast23/presentation/khan)]: [[GitHub](https://github.com/R-I-S-Khan/SHADE){:target="\_blank"}] -- [[arXiv](https://arxiv.org/abs/2206.00057){:target="\_blank"}]: [[code](#)]
+  [[FAST'23](https://www.usenix.org/conference/fast23/presentation/khan)]: [[GitHub](https://github.com/R-I-S-Khan/SHADE){:target="\_blank"}] -- [[SoCC'24](https://tddg.github.io/assets/pdf/socc24-fedcase.pdf){:target="\_blank"}]: [[code](https://github.com/rkhan055/FedCaSe){:target="\_blank"}]
 
 
