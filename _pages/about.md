@@ -31,15 +31,15 @@ easy-to-use computer **systems** that manage and process huge volume of
 
 Currently I am working on: 
 (1) **Serverless and FaaS:** improving serverless computing using a
-end-to-end approach that cuts across the entire software-hardware
+end-to-end approach that cuts across the entire ecosystem 
 stack: *(stateful) applications, middleware, platforms, and
-lower-level OS/HW*; 
-(2) **Data Reduction:** rethinking data reduction techniques for
+low-level OS/HW*; 
+(2) **Sys4ML:** building better (computing and storage) systems for
+large-scale ML applications; 
+(3) **ML4Sys:** improving systems software and infrastructure
+management by using learned/learning/data-driven approaches;
+and (4) **Data Reduction:** rethinking data reduction techniques for
 large data-intensive applications;
-(3) **Sys4ML:** building better (computing and storage) systems for
-(distributed) ML applications; 
-and (4) **ML4Sys:** improving systems software and infrastructure
-management by using learned or data-driven approaches.
 
 I am the recipient of an 
 [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2322860&HistoricalAwards=false){:target="\_blank"} (2021), 
