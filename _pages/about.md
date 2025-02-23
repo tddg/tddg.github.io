@@ -73,7 +73,7 @@ Most of my projects are open-source and available on our group's [GitHub page](h
   [[PDSW'19](https://arxiv.org/abs/1910.05896){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/Wukong){:target="\_blank"}]
 
 * **FaaS Platform Management:** A highly scalable container provisioning framework that can provision thousands of 10+GB serverless function containers with just a few seconds. FaaSNet is currently deployed at [Alibaba Function Compute](https://www.alibabacloud.com/product/function-compute){:target="\_blank"}.  
-  [[ATC'21](https://www.usenix.org/conference/atc21/presentation/wang-ao){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/FaaSNet){:target="\_target"}] [[Alibaba Cloud Blog](https://www.alibabacloud.com/blog/597937){:target="\_blank"}] | [[ASPLOS'25](#)]: [[GitHub](#)] (forthcoming)
+  [[ATC'21](https://www.usenix.org/conference/atc21/presentation/wang-ao){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/FaaSNet){:target="\_target"}] [[Alibaba Cloud Blog](https://www.alibabacloud.com/blog/597937){:target="\_blank"}] | [[ASPLOS'25](https://tddg.github.io/assets/pdf/asplos25-cidre.pdf)]: [[GitHub](#)] (forthcoming)
   
 * **Serverless Function OS Scheduling:** Linux CFS is not ideal for
 short-lived serverless function workloads. This project rethinks OS
