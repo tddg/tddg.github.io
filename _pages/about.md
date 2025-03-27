@@ -62,25 +62,38 @@ and 2014, and six months at Dell EMC Princeton Office in 2015.
 
 Most of my projects are open-source and available on our group's [GitHub page](https://github.com/ds2-lab){:target="\_blank"}.
 
+Our recent focus is on designing **first-gen Serverless AI** platforms for Large Language Model (LLM) applications. 
+For our most recent projects, check our latest [preprints and publication](https://tddg.github.io/publication/).
+
+* **Serverless AI:** Interactive ML/AI workloads require instant access to elastic GPU resources. **λScale** accelerates serverless LLM deployments and inference using RDMA and dynamic pipeline parallelism. **NotebookOS** implements on-demand GPUs for Jupyter Notebook-based interactive training workloads.  
+  * [[λScale preprint](https://arxiv.org/abs/2502.09922){:target="\_blank"}] 
+  * [[NotebookOS preprint](https://arxiv.org/abs/2503.20591){:target="\_blank"}] 
+ 
 
 * **Serverless Cloud Storage:** Storing large and small objects on a dynamic fleet of serverless functions with only 3% of ElastiCache's cost but without sacrificing performance and availability.  
-  [[ASPLOS'23](https://tddg.github.io/assets/pdf/asplos23-lambdafs-ae.pdf){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/LambdaFS){:target="\_blank"}] |
-  [[VLDB'23](https://tddg.github.io/assets/pdf/vldb23-infinistore.pdf){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/infinistore){:target="\_blank"}] |
-  [[FAST'20](https://www.usenix.org/conference/fast20/presentation/wang-ao){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/infinicache){:target="\_blank"}]
+  * [[ASPLOS'23](https://tddg.github.io/assets/pdf/asplos23-lambdafs-ae.pdf){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/LambdaFS){:target="\_blank"}] 
+  * [[VLDB'23](https://tddg.github.io/assets/pdf/vldb23-infinistore.pdf){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/infinistore){:target="\_blank"}] 
+  * [[FAST'20](https://www.usenix.org/conference/fast20/presentation/wang-ao){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/infinicache){:target="\_blank"}]
 
 * **Serverless Parallel Computing:** Scaling out Python parallel programs (e.g., Dask applications) on FaaS without worrying about tedious cluster management. Wukong uses a new decentralized scheduling technique, which decentralizes resource orchestration to each individual serverless function, thereby enabling high elasticity and high scalability.  
-  [[SoCC'20](https://tddg.github.io/assets/pdf/socc20-wukong.pdf){:target="\_blank"}] 
+  * [[SoCC'20](https://tddg.github.io/assets/pdf/socc20-wukong.pdf){:target="\_blank"}] 
   [[PDSW'19](https://arxiv.org/abs/1910.05896){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/Wukong){:target="\_blank"}]
 
 * **FaaS Platform Management:** A highly scalable container provisioning framework that can provision thousands of 10+GB serverless function containers with just a few seconds. FaaSNet is currently deployed at [Alibaba Function Compute](https://www.alibabacloud.com/product/function-compute){:target="\_blank"}.  
-  [[ATC'21](https://www.usenix.org/conference/atc21/presentation/wang-ao){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/FaaSNet){:target="\_target"}] [[Alibaba Cloud Blog](https://www.alibabacloud.com/blog/597937){:target="\_blank"}] | [[ASPLOS'25](https://tddg.github.io/assets/pdf/asplos25-cidre.pdf){:target="\_blank"}]: [[GitHub](#)] (forthcoming)
+  * [[ATC'21](https://www.usenix.org/conference/atc21/presentation/wang-ao){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/FaaSNet){:target="\_target"}] [[Alibaba Cloud Blog](https://www.alibabacloud.com/blog/597937){:target="\_blank"}] 
+  * [[ASPLOS'25](https://tddg.github.io/assets/pdf/asplos25-cidre.pdf){:target="\_blank"}]: [[GitHub](#)] (forthcoming)
   
 * **Serverless Function OS Scheduling:** Linux CFS is not ideal for
 short-lived serverless function workloads. This project rethinks OS
 scheduling to minimize function turnaround time.  
-  [[SC'22](https://arxiv.org/abs/2209.01709){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/SFS){:target="\_blank"}] | [[ATC'24](https://tddg.github.io/assets/pdf/atc24-alps-ae.pdf){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/ALPS){:target="\_blank"}]
+  * [[SC'22](https://arxiv.org/abs/2209.01709){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/SFS){:target="\_blank"}] 
+  * [[ATC'24](https://tddg.github.io/assets/pdf/atc24-alps-ae.pdf){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/ALPS){:target="\_blank"}]
 
-* **Storage for Deep Learning:** A common practice in deep learning training is to randomly shuffle all training samples epoch by epoch. With SHADE, you can cache the most important training samples without losing training quality.  
-  [[FAST'23](https://www.usenix.org/conference/fast23/presentation/khan)]: [[GitHub](https://github.com/R-I-S-Khan/SHADE){:target="\_blank"}] | [[SoCC'24](https://tddg.github.io/assets/pdf/socc24-fedcase.pdf){:target="\_blank"}]: [[code](https://github.com/rkhan055/FedCaSe){:target="\_blank"}]
+* **Systems for ML:** A common practice in deep learning training is to randomly shuffle all training samples epoch by epoch. With SHADE, you can cache the most important training samples without losing training quality.  
+  * [[FAST'23](https://www.usenix.org/conference/fast23/presentation/khan)]: [[GitHub](https://github.com/R-I-S-Khan/SHADE){:target="\_blank"}] 
+  * [[SoCC'24](https://tddg.github.io/assets/pdf/socc24-fedcase.pdf){:target="\_blank"}]: [[code](https://github.com/rkhan055/FedCaSe){:target="\_blank"}]
+
+
+
 
 
