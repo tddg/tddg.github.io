@@ -63,6 +63,11 @@ and 2014, and six months at Dell EMC Princeton Office in 2015.
 Most of my projects are open-source and available on our group's [GitHub page](https://github.com/ds2-lab){:target="\_blank"}.
 
 Our recent focus is on designing **first-gen Serverless AI platforms** for ***Large Language Model (LLM) applications***. 
+I'm looking for motivated ***graduate/undergrad interns*** interested
+in conducting research in cutting-edge LLM systems areas
+(serverless AI, LLM agents, storage for ML/AI models/datasets). Feel
+free to drop me an email if you are interested.
+
 For our most recent projects, check our latest [preprints and publication](https://tddg.github.io/publication/).
 
 * **Serverless AI:** Interactive ML/AI workloads require instant access to elastic GPU resources. **λScale** accelerates serverless LLM deployments and inference using RDMA and dynamic pipeline parallelism. **NotebookOS** implements on-demand GPUs for Jupyter Notebook-based interactive training workloads.  
