@@ -75,7 +75,7 @@ For our most recent projects, check our latest [preprints and publication](https
 
 * **FaaS Platform Management:** A highly scalable container provisioning framework that can provision thousands of 10+GB serverless function containers with just a few seconds. FaaSNet is currently deployed at [Alibaba Function Compute](https://www.alibabacloud.com/product/function-compute){:target="\_blank"}.  
   * [[ATC'21](https://www.usenix.org/conference/atc21/presentation/wang-ao){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/FaaSNet){:target="\_target"}] [[Alibaba Cloud Blog](https://www.alibabacloud.com/blog/597937){:target="\_blank"}] 
-  * [[ASPLOS'25](https://tddg.github.io/assets/pdf/asplos25-cidre.pdf){:target="\_blank"}]: [[GitHub](#)] (forthcoming)
+  * [[ASPLOS'25](https://tddg.github.io/assets/pdf/asplos25-cidre.pdf){:target="\_blank"}]: [[GitHub](https://github.com/nzc5ve/cidre_asplos25){:target="\_target"}]
 
 * **Serverless Cloud Storage:** Storing large and small objects on a dynamic fleet of serverless functions with only 3% of ElastiCache's cost but without sacrificing performance and availability.  
   * [[ASPLOS'23](https://tddg.github.io/assets/pdf/asplos23-lambdafs-ae.pdf){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/LambdaFS){:target="\_blank"}] 
