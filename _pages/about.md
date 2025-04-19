@@ -36,7 +36,7 @@ end-to-end approach that cuts across the entire ecosystem
 stack: *(stateful) applications, middleware, platforms, and
 low-level OS/HW*; 
 (3) **Data Reduction:** rethinking data reduction techniques for
-large ML platforms like Huggung Face.
+large ML platforms like Hugging Face.
 
 I am the recipient of an 
 [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2322860&HistoricalAwards=false){:target="\_blank"} (2021), 
