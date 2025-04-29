@@ -59,7 +59,9 @@ and 2014, and six months at Dell EMC Princeton Office in 2015.
 
 Most of my projects are open-source and available on our group's [GitHub page](https://github.com/ds2-lab){:target="\_blank"}.
 
-Our recent focus is on designing **first-gen Serverless AI platforms** for ***Large Language Model (LLM) applications***. 
+Our recent focus is on:
+1. Designing **first-gen Serverless AI platforms** for ***Large Language Model (LLM) applications***,
+2. Rethinking **storage system design** in the era of ***Generative AI and LLMs***.
 
 I'm looking for motivated ***graduate/undergrad interns*** interested
 in conducting research in cutting-edge LLM systems areas
