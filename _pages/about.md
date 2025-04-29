@@ -87,14 +87,14 @@ For our most recent projects, check our latest [preprints and publication](https
   * [[FAST'20](https://www.usenix.org/conference/fast20/presentation/wang-ao){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/infinicache){:target="\_blank"}]
 
 * **Serverless Parallel Computing:** Scaling out Python parallel programs (e.g., Dask applications) on FaaS without worrying about tedious cluster management. Wukong uses a new decentralized scheduling technique, which decentralizes resource orchestration to each individual serverless function, thereby enabling high elasticity and high scalability.  
-  * [[SoCC'20](https://tddg.github.io/assets/pdf/socc20-wukong.pdf){:target="\_blank"}] 
-  [[PDSW'19](https://arxiv.org/abs/1910.05896){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/Wukong){:target="\_blank"}]
+  * [[SoCC'20](https://tddg.github.io/assets/pdf/socc20-wukong.pdf){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/Wukong){:target="\_blank"}]
+  * [[PDSW'19](https://arxiv.org/abs/1910.05896){:target="\_blank"}]
   
 * **Serverless Function OS Scheduling:** Linux CFS is not ideal for
 short-lived serverless function workloads. This project rethinks OS
 scheduling to minimize function turnaround time.  
-  * [[SC'22](https://arxiv.org/abs/2209.01709){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/SFS){:target="\_blank"}] 
   * [[ATC'24](https://tddg.github.io/assets/pdf/atc24-alps-ae.pdf){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/ALPS){:target="\_blank"}]
+  * [[SC'22](https://arxiv.org/abs/2209.01709){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/SFS){:target="\_blank"}] 
 
 
 
