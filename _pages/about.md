@@ -68,14 +68,18 @@ free to drop me an email if you are interested!
 
 For our most recent projects, check our latest [preprints and publication](https://tddg.github.io/publication/).
 
-* **Serverless AI:** Interactive ML/AI workloads require instant access to elastic GPU resources. **λScale** accelerates serverless LLM deployments and inference using RDMA and dynamic pipeline parallelism. **NotebookOS** implements on-demand GPUs for Jupyter Notebook-based interactive training workloads.  
+* **Serverless AI:** Interactive ML/AI workloads demand instant access to elastic GPU resources. We are reimagining serverless platform design to enable efficient and scalable GPU utilization. **λScale** accelerates serverless LLM deployments and inference using RDMA and dynamic pipeline parallelism. **NotebookOS** implements on-demand GPUs for Jupyter Notebook-based interactive training workloads.  
   * [[λScale preprint](https://arxiv.org/abs/2502.09922){:target="\_blank"}] 
   * [[NotebookOS preprint](https://arxiv.org/abs/2503.20591){:target="\_blank"}] 
  
+* **Storage Systems for AI:** We are rethinking storage system design to sustain the exponential AI data explosion. ELF (and ELVES) near-losslessly compress ML models to achieve effective model storage reduction. SHADE and FedCaSe automatically and intelligently cache the most important training samples without losing training quality.  
+  * [[VLDB'24](https://www.vldb.org/pvldb/vol17/p2036-su.pdf){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/ELF){:target="\_blank"}]
+  * [[FAST'23](https://www.usenix.org/conference/fast23/presentation/khan){:target="\_blank"}]: [[GitHub](https://github.com/R-I-S-Khan/SHADE){:target="\_blank"}] 
+  * [[SoCC'24](https://tddg.github.io/assets/pdf/socc24-fedcase.pdf){:target="\_blank"}]: [[GitHub](https://github.com/rkhan055/FedCaSe){:target="\_blank"}]
 
-* **FaaS Platform Management:** A highly scalable container provisioning framework that can provision thousands of 10+GB serverless function containers with just a few seconds. FaaSNet is currently deployed at [Alibaba Function Compute](https://www.alibabacloud.com/product/function-compute){:target="\_blank"}.  
-  * [[ATC'21](https://www.usenix.org/conference/atc21/presentation/wang-ao){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/FaaSNet){:target="\_target"}] [[Alibaba Cloud Blog](https://www.alibabacloud.com/blog/597937){:target="\_blank"}] 
+* **FaaS Platform Management:** We design innovative systems solutions to make FaaS truly elastic. A highly scalable container provisioning framework that can provision thousands of 10+GB serverless function containers with just a few seconds. FaaSNet is currently deployed at [Alibaba Function Compute](https://www.alibabacloud.com/product/function-compute){:target="\_blank"}.  
   * [[ASPLOS'25](https://tddg.github.io/assets/pdf/asplos25-cidre.pdf){:target="\_blank"}]: [[GitHub](https://github.com/nzc5ve/cidre_asplos25){:target="\_target"}]
+  * [[ATC'21](https://www.usenix.org/conference/atc21/presentation/wang-ao){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/FaaSNet){:target="\_target"}] [[Alibaba Cloud Blog](https://www.alibabacloud.com/blog/597937){:target="\_blank"}] 
 
 * **Serverless Cloud Storage:** Storing large and small objects on a dynamic fleet of serverless functions with only 3% of ElastiCache's cost but without sacrificing performance and availability.  
   * [[ASPLOS'23](https://tddg.github.io/assets/pdf/asplos23-lambdafs-ae.pdf){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/LambdaFS){:target="\_blank"}] 
@@ -91,11 +95,6 @@ short-lived serverless function workloads. This project rethinks OS
 scheduling to minimize function turnaround time.  
   * [[SC'22](https://arxiv.org/abs/2209.01709){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/SFS){:target="\_blank"}] 
   * [[ATC'24](https://tddg.github.io/assets/pdf/atc24-alps-ae.pdf){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/ALPS){:target="\_blank"}]
-
-* **Systems for ML:** ELF (and ELVES) near-losslessly compress ML models to achieve effective model storage reduction. SHADE and FedCaSe automatically and intelligently cache the most important training samples without losing training quality.  
-  * [[VLDB'24](https://www.vldb.org/pvldb/vol17/p2036-su.pdf){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/ELF){:target="\_blank"}]
-  * [[FAST'23](https://www.usenix.org/conference/fast23/presentation/khan){:target="\_blank"}]: [[GitHub](https://github.com/R-I-S-Khan/SHADE){:target="\_blank"}] 
-  * [[SoCC'24](https://tddg.github.io/assets/pdf/socc24-fedcase.pdf){:target="\_blank"}]: [[GitHub](https://github.com/rkhan055/FedCaSe){:target="\_blank"}]
 
 
 
