@@ -70,7 +70,7 @@ free to drop me an email if you are interested!
 
 For our most recent projects, check our latest [preprints and publication](https://tddg.github.io/publication/).
 
-* **Serverless AI:** Interactive ML/AI workloads demand instant access to elastic GPU resources. We are reimagining serverless platform design to enable efficient and scalable GPU utilization. **λScale** accelerates serverless LLM deployments and inference using RDMA and dynamic pipeline parallelism. **NotebookOS** implements on-demand GPUs for Jupyter Notebook-based interactive training workloads.  
+* **Serverless AI:** Interactive ML/AI workloads demand instant access to elastic GPU resources. We are reimagining serverless platform design to enable efficient and scalable GPU utilization for LLMs. **λScale** accelerates serverless LLM deployments and inference using RDMA and dynamic pipeline parallelism. **NotebookOS** implements on-demand GPUs for Jupyter Notebook-based interactive training workloads.  
   * [[λScale preprint](https://arxiv.org/abs/2502.09922){:target="\_blank"}] 
   * [[NotebookOS preprint](https://arxiv.org/abs/2503.20591){:target="\_blank"}] 
  
