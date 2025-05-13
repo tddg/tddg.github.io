@@ -74,7 +74,8 @@ For our most recent projects, check our latest [preprints and publication](https
   * [[λScale preprint](https://arxiv.org/abs/2502.09922){:target="\_blank"}] 
   * [[NotebookOS preprint](https://arxiv.org/abs/2503.20591){:target="\_blank"}] 
  
-* **Storage Systems for AI:** We are rethinking storage system design to sustain the exponential AI data explosion. ELF (and ELVES) near-losslessly compress ML models to achieve effective model storage reduction. SHADE and FedCaSe automatically and intelligently cache the most important training samples without losing training quality.  
+* **Storage Systems for AI:** We are rethinking storage system design to sustain the exponential AI data explosion. **zLLM** and **BitX** are new lossless compressing algorithms that reduce the LLM storage footprint by 50%.  ELF (and ELVES) near-losslessly compress ML models to achieve effective model storage reduction. SHADE and FedCaSe automatically and intelligently cache the most important training samples without losing training quality.  
+  * [[zLLM preprint](https://arxiv.org/abs/2505.06252){:target="\_blank"}]
   * [[VLDB'24](https://www.vldb.org/pvldb/vol17/p2036-su.pdf){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/ELF){:target="\_blank"}]
   * [[SoCC'24](https://tddg.github.io/assets/pdf/socc24-fedcase.pdf){:target="\_blank"}]: [[GitHub](https://github.com/rkhan055/FedCaSe){:target="\_blank"}]
   * [[FAST'23](https://www.usenix.org/conference/fast23/presentation/khan){:target="\_blank"}]: [[GitHub](https://github.com/R-I-S-Khan/SHADE){:target="\_blank"}] 
