@@ -70,10 +70,23 @@ free to drop me an email if you are interested!
 
 For our most recent projects, check our latest [preprints and publication](https://tddg.github.io/publication/).
 
-* **Serverless AI:** Interactive ML/AI workloads require elastic access to heterogeneous compute resources (GPU, CPU). We explore new serverless execution paradigms to enable efficient and scalable GPU utilization for LLM fine-tuning and inference. **λScale** accelerates serverless LLM deployments and inference using RDMA and dynamic pipeline parallelism. **NotebookOS** implements on-demand GPUs for Jupyter Notebook-based interactive training workloads. **ZenFlow** accelerates LLM fine-tuning by prioritizing and decoupling parameter updates across fast GPU and slow CPU, minimizing GPU stalls while preserving accuracy. 
+* **Serverless AI:** Interactive ML/AI workloads require elastic
+access to heterogeneous compute resources (GPU, CPU). We explore
+new serverless execution paradigms to enable efficient 
+GPU utilization and scalable and elastic GPU management for LLM
+fine-tuning and inference. **λScale**
+accelerates serverless LLM deployments and inference using RDMA and
+dynamic pipeline parallelism. **NotebookOS** implements on-demand
+GPUs for Jupyter Notebook-based interactive training workloads.
+**ZenFlow** accelerates LLM fine-tuning by prioritizing and
+decoupling parameter updates across fast GPU and slow CPU,
+minimizing GPU stalls while preserving accuracy. 
+**MorphServe** enables flexible and elastic GPU memory scaling up and down
+with dynamic model layer quantization and KVC resizing. 
   * [[λScale preprint](https://arxiv.org/abs/2502.09922){:target="\_blank"}] 
   * [[NotebookOS preprint](https://arxiv.org/abs/2503.20591){:target="\_blank"}] 
   * [[ZenFlow preprint](https://arxiv.org/abs/2505.12242){:target="\_blank"}] 
+  * [[MorphServe preprint](https://arxiv.org/abs/2506.02006){:target="\_blank"}] 
  
 * **Storage Systems for AI:** We are rethinking storage system design to sustain the exponential AI data explosion. **zLLM** and **BitX** are new lossless compressing algorithms that reduce the LLM storage footprint by 50%.  ELF (and ELVES) near-losslessly compress ML models to achieve effective model storage reduction. SHADE and FedCaSe automatically and intelligently cache the most important training samples without losing training quality.  
   * [[zLLM preprint](https://arxiv.org/abs/2505.06252){:target="\_blank"}]
