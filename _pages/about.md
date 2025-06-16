@@ -45,9 +45,6 @@ a [Meta Research Award](https://research.facebook.com/blog/2022/9/announcing-the
 [the IEEE CS TCHPC Early Career Researchers Award for Excellence
 in HPC](https://tc.computer.org/tchpc/2022/10/06/2022-ieee-cs-tchpc-award-winners/){:target="\_blank"} (2022), 
 and a [Samsung GRO 2023 Award](https://www.sait.samsung.co.kr/saithome/about/collabo_recipients.do){:target="\_blank"} (2023).
-Prior to joining UVA, I was an Assistant Professor of 
-[Computer Science](https://cs.gmu.edu/){:target="\_blank"} at 
-[George Mason University](https://www.gmu.edu/){:target="\_blank"}, from 2017 to 2022.
 I received my Ph.D. degree in [Computer Science](https://cs.vt.edu/){:target="\_blank"} from
 [Virginia Tech](https://vt.edu/){:target="\_blank"}, working with Dr.
 [Ali R. Butt](https://people.cs.vt.edu/butta/){:target="\_blank"}. 
@@ -65,8 +62,9 @@ Our recent focus is on:
 
 I'm looking for motivated ***graduate/undergrad interns*** interested
 in conducting research in cutting-edge LLM systems areas
-(serverless AI, LLM agents, storage for ML/AI models/datasets). Feel
-free to drop me an email if you are interested!
+(serverless AI, LLM agents, storage for ML/AI models/datasets).
+Please fill the [form](https://forms.gle/XgYMd6ULLbxesEuj7) if you
+are interested!  Also feel free to reach out via email.
 
 For our most recent projects, check our latest [preprints and publication](https://tddg.github.io/publication/).
 
