@@ -63,7 +63,7 @@ Our recent focus is on:
 I'm looking for motivated ***graduate/undergrad interns*** interested
 in conducting research in cutting-edge LLM systems areas
 (serverless AI, LLM agents, storage for ML/AI models/datasets).
-Please fill the [form](https://forms.gle/XgYMd6ULLbxesEuj7) if you
+Please fill out this [form](https://forms.gle/XgYMd6ULLbxesEuj7) if you
 are interested!  Also feel free to reach out via email.
 
 For our most recent projects, check our latest [preprints and publication](https://tddg.github.io/publication/).
