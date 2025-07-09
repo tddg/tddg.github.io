@@ -79,6 +79,8 @@ GPUs for Jupyter Notebook-based interactive training workloads.
 **ZenFlow** accelerates LLM fine-tuning by prioritizing and
 decoupling parameter updates across fast GPU and slow CPU,
 minimizing GPU stalls while preserving accuracy. 
+**ZenFlow had been integrated into
+[DeepSpeed](https://github.com/deepspeedai/DeepSpeed).** 
 **MorphServe** enables flexible and elastic GPU memory scaling for
 bursty LLM inference workloads via dynamic model layer quantization
 and KVC resizing. 
