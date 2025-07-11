@@ -34,7 +34,7 @@ Currently I am working on:
 (2) **Serverless and FaaS:** improving serverless computing using a
 end-to-end approach that cuts across the entire ecosystem 
 stack: *(stateful) applications, middleware, platforms, and
-low-level OS/HW*; 
+low-level OS*; 
 (3) **Data Reduction:** rethinking data reduction techniques for
 large ML platforms like Hugging Face.
 
