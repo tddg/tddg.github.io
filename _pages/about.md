@@ -89,7 +89,7 @@ and KVC resizing.
   * [[ZenFlow preprint](https://arxiv.org/abs/2505.12242){:target="\_blank"}] 
   * [[MorphServe preprint](https://arxiv.org/abs/2506.02006){:target="\_blank"}] 
  
-* **Storage Systems for AI:** We are rethinking storage system design to sustain the exponential AI data explosion. **ZipLLM** and **BitX** are new lossless compressing algorithms that reduce the LLM storage footprint by 50%.  ELF and ELVES near-losslessly compress ML models to achieve effective model storage reduction. SHADE and FedCaSe automatically and intelligently cache the most important training samples without losing training quality.  
+* **Storage Systems for AI:** We are rethinking storage system design to sustain the exponential AI data explosion. **ZipLLM** and **BitX** are new lossless compressing algorithms that reduce the LLM storage footprint by 50%.  **ELF** and **ELVES** near-losslessly compress ML models to achieve effective model storage reduction. SHADE and FedCaSe automatically and intelligently cache the most important training samples without losing training quality.  
   * [[ZipLLM preprint [NSDI'26]](https://arxiv.org/abs/2505.06252){:target="\_blank"}]
   * [[VLDB'24](https://www.vldb.org/pvldb/vol17/p2036-su.pdf){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/ELF){:target="\_blank"}]
   * [[SoCC'24](https://tddg.github.io/assets/pdf/socc24-fedcase.pdf){:target="\_blank"}]: [[GitHub](https://github.com/rkhan055/FedCaSe){:target="\_blank"}]
