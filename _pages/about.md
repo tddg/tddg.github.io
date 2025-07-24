@@ -44,7 +44,8 @@ an Amazon Research Award (2021),
 a [Meta Research Award](https://research.facebook.com/blog/2022/9/announcing-the-winners-of-the-2022-ai-system-hardwaresoftware-codesign-request-for-proposals/?locale=en_US&draft=1284382378973290){:target="\_blank"} (2022),
 [the IEEE CS TCHPC Early Career Researchers Award for Excellence
 in HPC](https://tc.computer.org/tchpc/2022/10/06/2022-ieee-cs-tchpc-award-winners/){:target="\_blank"} (2022), 
-and a [Samsung GRO 2023 Award](https://www.sait.samsung.co.kr/saithome/about/collabo_recipients.do){:target="\_blank"} (2023).
+and a [Samsung GRO 2023 Award](https://www.sait.samsung.co.kr/saithome/about/collabo_recipients.do){:target="\_blank"} (2023). 
+I was ranked among the [Stanford's World's Top 2% Scientists](https://topresearcherslist.com/Home/Profile/977645){:target="\_blank"} in 2024.
 I received my Ph.D. degree in [Computer Science](https://cs.vt.edu/){:target="\_blank"} from
 [Virginia Tech](https://vt.edu/){:target="\_blank"}, working with Dr.
 [Ali R. Butt](https://people.cs.vt.edu/butta/){:target="\_blank"}. 
