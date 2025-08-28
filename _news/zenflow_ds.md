@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-06-25
+date: 2025-08-28
 inline: true
 ---
 
