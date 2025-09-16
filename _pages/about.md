@@ -73,9 +73,7 @@ For our most recent projects, check our latest [preprints and publication](https
 access to heterogeneous compute resources (GPU, CPU). We explore
 new serverless execution paradigms to enable efficient 
 GPU utilization and scalable and elastic GPU management for LLM
-fine-tuning and inference. **λScale**
-accelerates serverless LLM deployments and inference using RDMA and
-dynamic pipeline parallelism. **NotebookOS** implements on-demand
+fine-tuning and inference. **NotebookOS** implements on-demand
 GPUs for Jupyter Notebook-based interactive training workloads.
 **ZenFlow** accelerates LLM fine-tuning by prioritizing and
 decoupling parameter updates across fast GPU and slow CPU,
@@ -85,7 +83,6 @@ minimizing GPU stalls while preserving accuracy.
 **MorphServe** enables flexible and elastic GPU memory scaling for
 bursty LLM inference workloads via dynamic model layer quantization
 and KVC resizing. 
-  * [[λScale preprint](https://arxiv.org/abs/2502.09922){:target="\_blank"}] 
   * [[NotebookOS preprint [ASPLOS'26]](https://arxiv.org/abs/2503.20591){:target="\_blank"}] 
   * [[ZenFlow preprint](https://arxiv.org/abs/2505.12242){:target="\_blank"}] 
   * [[MorphServe preprint](https://arxiv.org/abs/2506.02006){:target="\_blank"}] 
