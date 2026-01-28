@@ -83,25 +83,25 @@ minimizing GPU stalls while preserving accuracy.
 **MorphServe** enables flexible and elastic GPU memory scaling for
 bursty LLM inference workloads via dynamic model layer quantization
 and KVC resizing. 
-  * [[NotebookOS preprint [ASPLOS'26]](https://arxiv.org/abs/2503.20591){:target="\_blank"}] 
+  * [[NotebookOS [ASPLOS'26]](https://arxiv.org/abs/2503.20591){:target="\_blank"}] 
   * [[ZenFlow preprint](https://arxiv.org/abs/2505.12242){:target="\_blank"}] 
-  * [[λScale preprint](https://arxiv.org/abs/2502.09922){:target="\_blank"}] 
-  * [[MorphServe preprint](https://arxiv.org/abs/2506.02006){:target="\_blank"}] 
+  * [[λScale preprint [MLSys'26]](https://arxiv.org/abs/2502.09922){:target="\_blank"}] 
+  * [[MorphServe preprint [MLSys'26]](https://arxiv.org/abs/2506.02006){:target="\_blank"}] 
  
 * **Storage Systems for AI:** We are rethinking storage system design to sustain the exponential AI data explosion. **ZipLLM** and **BitX** are new lossless compressing algorithms that reduce the LLM storage footprint by 50%.  **ELF** and **ELVES** near-losslessly compress ML models to achieve effective model storage reduction. SHADE and FedCaSe automatically and intelligently cache the most important training samples without losing training quality.  
   * [[ZipLLM [NSDI'26]](https://arxiv.org/abs/2505.06252){:target="\_blank"}]
-  * [[VLDB'24](https://www.vldb.org/pvldb/vol17/p2036-su.pdf){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/ELF){:target="\_blank"}]
+  * [[ELF VLDB'24](https://www.vldb.org/pvldb/vol17/p2036-su.pdf){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/ELF){:target="\_blank"}]
   * [[SoCC'24](https://tddg.github.io/assets/pdf/socc24-fedcase.pdf){:target="\_blank"}]: [[GitHub](https://github.com/rkhan055/FedCaSe){:target="\_blank"}]
   * [[FAST'23](https://www.usenix.org/conference/fast23/presentation/khan){:target="\_blank"}]: [[GitHub](https://github.com/R-I-S-Khan/SHADE){:target="\_blank"}] 
 
 * **FaaS Platform Management:** We design innovative systems solutions to make FaaS truly elastic. A highly scalable container provisioning framework that can provision thousands of 10+GB serverless function containers with just a few seconds. **FaaSNet [ATC'21] and CIDRE [ASPLOS'25] are both deployed at** [Alibaba Function Compute](https://www.alibabacloud.com/product/function-compute){:target="\_blank"}.  
-  * [[ASPLOS'25](https://tddg.github.io/assets/pdf/asplos25-cidre.pdf){:target="\_blank"}]: [[GitHub](https://github.com/nzc5ve/cidre_asplos25){:target="\_target"}]
-  * [[ATC'21](https://www.usenix.org/conference/atc21/presentation/wang-ao){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/FaaSNet){:target="\_target"}] [[Alibaba Cloud Blog](https://www.alibabacloud.com/blog/597937){:target="\_blank"}] 
+  * [[CIDRE ASPLOS'25](https://tddg.github.io/assets/pdf/asplos25-cidre.pdf){:target="\_blank"}]: [[GitHub](https://github.com/nzc5ve/cidre_asplos25){:target="\_target"}]
+  * [[FaaSNet ATC'21](https://www.usenix.org/conference/atc21/presentation/wang-ao){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/FaaSNet){:target="\_target"}] [[Alibaba Cloud Blog](https://www.alibabacloud.com/blog/597937){:target="\_blank"}] 
 
 * **Serverless Cloud Storage:** Storing large and small objects on a dynamic fleet of serverless functions with only 3% of ElastiCache's cost but without sacrificing performance and availability.  
-  * [[ASPLOS'23](https://tddg.github.io/assets/pdf/asplos23-lambdafs-ae.pdf){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/LambdaFS){:target="\_blank"}] 
-  * [[VLDB'23](https://tddg.github.io/assets/pdf/vldb23-infinistore.pdf){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/infinistore){:target="\_blank"}] 
-  * [[FAST'20](https://www.usenix.org/conference/fast20/presentation/wang-ao){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/infinicache){:target="\_blank"}]
+  * [[λFS ASPLOS'23](https://tddg.github.io/assets/pdf/asplos23-lambdafs-ae.pdf){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/LambdaFS){:target="\_blank"}] 
+  * [[InfiniStore VLDB'23](https://tddg.github.io/assets/pdf/vldb23-infinistore.pdf){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/infinistore){:target="\_blank"}] 
+  * [[InfiniCache FAST'20](https://www.usenix.org/conference/fast20/presentation/wang-ao){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/infinicache){:target="\_blank"}]
 
 * **Serverless Parallel Computing:** Scaling out Python parallel programs (e.g., Dask applications) on FaaS without worrying about tedious cluster management. Wukong uses a new decentralized scheduling technique, which decentralizes resource orchestration to each individual serverless function, thereby enabling high elasticity and high scalability.  
   * [[SoCC'20](https://tddg.github.io/assets/pdf/socc20-wukong.pdf){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/Wukong){:target="\_blank"}]
@@ -110,8 +110,8 @@ and KVC resizing.
 * **Serverless Function OS Scheduling:** Linux CFS is not ideal for
 short-lived serverless function workloads. This project rethinks OS
 scheduling to minimize function turnaround time.  
-  * [[ATC'24](https://tddg.github.io/assets/pdf/atc24-alps-ae.pdf){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/ALPS){:target="\_blank"}]
-  * [[SC'22](https://arxiv.org/abs/2209.01709){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/SFS){:target="\_blank"}] 
+  * [[ALPS ATC'24](https://tddg.github.io/assets/pdf/atc24-alps-ae.pdf){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/ALPS){:target="\_blank"}]
+  * [[SFS SC'22](https://arxiv.org/abs/2209.01709){:target="\_blank"}]: [[GitHub](https://github.com/ds2-lab/SFS){:target="\_blank"}] 
 
 
 
