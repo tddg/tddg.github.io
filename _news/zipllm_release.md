@@ -5,7 +5,7 @@ inline: true
 ---
 
 We have released BitX, a high-performance, lossless compressor as a
-for safetensors model files. 
+for safetensors model files 
 ([paper](https://arxiv.org/abs/2505.06252){:target="\_blank"},  
 [Rust crate](https://crates.io/crates/bitx-codec){:target="\_blank"}). 
 BitX achieves 10+ GB/s compression throughput, making it practical
