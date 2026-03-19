@@ -6,13 +6,12 @@ subtitle: Associate Professor at the University of Virginia
 
 profile:
   align: right
-  image: YueCheng.png
+  image: Yue_Cheng_headshot_resized.png
   image_cicular: 
   address: >
     <!--p><a href="mailto:mrz7dp@virginia.edu"><i class="fas fa-envelope"></i> mrz7dp _AT_ virginia.edu</a></p-->
     <p><i class="fas fa-envelope"></i> mrz7dp _AT_ virginia.edu</p>
-    <p>SDS,CS@UVA </p>
-    <p>Data Systems Researcher</p>
+    <p>AI Systems Researcher</p>
 
 news: 2
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -30,13 +29,12 @@ easy-to-use computer **systems** that manage and process huge volume of
 **data**.
 
 Currently I am working on: 
-(1) **LLM systems:** making LLM applications elastic and scalable;
-(2) **Serverless and FaaS:** improving serverless computing using a
-end-to-end approach that cuts across the entire ecosystem 
-stack: *(stateful) applications, middleware, platforms, and
-low-level OS*; 
-(3) **Storage for AI:** rethinking storage system designs and data
+(1) **Storage for AI:** rethinking storage system designs and data
 reduction techniques for AI applications.
+(2) **Serverless + AI:** making AI applications (LLM serving, emerging multimodal apps) fundamentally elastic;
+(3) **Serverless and FaaS:** improving serverless computing using a
+end-to-end approach that cuts across the entire ecosystem 
+stack: *applications, frameworks, platforms, and OS*; 
 
 I am the recipient of an 
 [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2322860&HistoricalAwards=false){:target="\_blank"} (2021), 
@@ -47,10 +45,10 @@ in HPC](https://tc.computer.org/tchpc/2022/10/06/2022-ieee-cs-tchpc-award-winner
 and a [Samsung GRO 2023 Award](https://www.sait.samsung.co.kr/saithome/about/collabo_recipients.do){:target="\_blank"} (2023). 
 I was ranked among the [Stanford's World's Top 2% Scientists](https://topresearcherslist.com/Home/Profile/977645){:target="\_blank"} in 2024.
 I received my Ph.D. degree in [Computer Science](https://cs.vt.edu/){:target="\_blank"} from
-[Virginia Tech](https://vt.edu/){:target="\_blank"}, working with Dr.
-[Ali R. Butt](https://people.cs.vt.edu/butta/){:target="\_blank"}. 
+[Virginia Tech](https://vt.edu/){:target="\_blank"}. 
 During my Ph.D. I spent two summers at IBM Research Almaden in 2013
-and 2014, and six months at Dell EMC Princeton Office in 2015. 
+and 2014, and six months at Dell EMC Princeton Office in 2015, all on 
+storage systems.  
 
 
 ## selected projects
