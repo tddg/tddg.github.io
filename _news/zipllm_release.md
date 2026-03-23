@@ -4,7 +4,7 @@ date: 2026-02-25
 inline: true
 ---
 
-We have released BitX, a high-performance, lossless compressor as a
+We have released BitX, a high-performance, lossless compressor 
 for safetensors model files 
 ([paper](https://arxiv.org/abs/2505.06252){:target="\_blank"},  
 [Rust crate](https://crates.io/crates/bitx-codec){:target="\_blank"}). 
