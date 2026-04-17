@@ -54,7 +54,7 @@ storage systems.
 Most of my projects are open-source and available on our group's [GitHub page](https://github.com/ds2-lab){:target="\_blank"}.
 
 Our recent focus is on:
-1. Rethinking **storage system design** in the era of ***Generative AI and LLMs***.
+1. Rethinking **storage system design** in the era of ***Sustainable GenAI***.
 2. Designing **accessible AI infrastructure** for whoever needs **affordable AI compute resources**,
 
 I'm looking for motivated ***graduate/undergrad interns*** interested
