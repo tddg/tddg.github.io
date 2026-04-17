@@ -24,14 +24,12 @@ the [University of Virginia](https://www.virginia.edu/){:target="\_blank"}.
 My research covers a range of topics including distributed systems,
 serverless and cloud computing, storage systems, operating systems,
 and high-performance computing. 
-My current research focuses on designing scalable, high-performance, and
-easy-to-use computer **systems** that manage and process huge volume of
-**data**.
+My current research cares about building **sustainable and accessible** AI
+compute and storage infrastructure that supports **broader AI ecosystems**.
 
 Currently I am working on: 
-(1) **Storage for AI:** rethinking storage system designs and data
-reduction techniques for AI applications.
-(2) **Serverless + AI:** making AI applications (LLM serving, emerging multimodal apps) fundamentally elastic;
+(1) **Sustainable storage for AI:** rethinking storage system for AI community platforms.
+(2) **Accessible AI compute:** making AI hardware accelerators fundamentally elastic and accessible to everyone;
 (3) **Serverless and FaaS:** improving serverless computing using a
 end-to-end approach that cuts across the entire ecosystem 
 stack: *applications, frameworks, platforms, and OS*; 
@@ -56,8 +54,8 @@ storage systems.
 Most of my projects are open-source and available on our group's [GitHub page](https://github.com/ds2-lab){:target="\_blank"}.
 
 Our recent focus is on:
-1. Designing **first-gen Serverless AI platforms** for ***Large Language Model (LLM) applications***,
-2. Rethinking **storage system design** in the era of ***Generative AI and LLMs***.
+1. Rethinking **storage system design** in the era of ***Generative AI and LLMs***.
+2. Designing **accessible AI infrastructure** for whoever needs **affordable AI compute resources**,
 
 I'm looking for motivated ***graduate/undergrad interns*** interested
 in conducting research in cutting-edge LLM systems areas
@@ -67,11 +65,17 @@ are interested!  Also feel free to reach out via email.
 
 For our most recent projects, check our latest [preprints and publication](https://tddg.github.io/publication/).
 
-* **Serverless AI:** Interactive ML/AI workloads require elastic
-access to heterogeneous compute resources (GPU, CPU). We explore
-new serverless execution paradigms to enable efficient 
-GPU utilization and scalable and elastic GPU management for LLM
-fine-tuning and inference. **NotebookOS** implements on-demand
+ 
+* **Storage Systems for AI:** We are rethinking storage system design to sustain the exponential AI data explosion. **ZipLLM** and **BitX** are new lossless compressing algorithms that reduce the LLM storage footprint by 50%.  **ELF** and **ELVES** near-losslessly compress ML models to achieve effective model storage reduction. SHADE and FedCaSe automatically and intelligently cache the most important training samples without losing training quality.  
+  * [ZipLLM [NSDI'26]](https://arxiv.org/abs/2505.06252){:target="\_blank"}
+  * [ELF [VLDB'24]](https://www.vldb.org/pvldb/vol17/p2036-su.pdf){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/ELF){:target="\_blank"}]
+  * [SoCC'24](https://tddg.github.io/assets/pdf/socc24-fedcase.pdf){:target="\_blank"}: [[GitHub](https://github.com/rkhan055/FedCaSe){:target="\_blank"}]
+  * [FAST'23](https://www.usenix.org/conference/fast23/presentation/khan){:target="\_blank"}: [[GitHub](https://github.com/R-I-S-Khan/SHADE){:target="\_blank"}] 
+
+* **Serverless AI:** We explore
+new serverless execution paradigms to enable accessible and affordable 
+GPU resources and elastic GPU management for both training and inference. 
+**NotebookOS** implements on-demand
 GPUs for Jupyter Notebook-based interactive training workloads.
 **ZenFlow** accelerates LLM fine-tuning by prioritizing and
 decoupling parameter updates across fast GPU and slow CPU,
@@ -85,12 +89,6 @@ and KVC resizing.
   * [ZenFlow preprint](https://arxiv.org/abs/2505.12242){:target="\_blank"}
   * [λScale preprint [MLSys'26]](https://arxiv.org/abs/2502.09922){:target="\_blank"} 
   * [MorphServe preprint [MLSys'26]](https://arxiv.org/abs/2506.02006){:target="\_blank"} 
- 
-* **Storage Systems for AI:** We are rethinking storage system design to sustain the exponential AI data explosion. **ZipLLM** and **BitX** are new lossless compressing algorithms that reduce the LLM storage footprint by 50%.  **ELF** and **ELVES** near-losslessly compress ML models to achieve effective model storage reduction. SHADE and FedCaSe automatically and intelligently cache the most important training samples without losing training quality.  
-  * [ZipLLM [NSDI'26]](https://arxiv.org/abs/2505.06252){:target="\_blank"}
-  * [ELF [VLDB'24]](https://www.vldb.org/pvldb/vol17/p2036-su.pdf){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/ELF){:target="\_blank"}]
-  * [SoCC'24](https://tddg.github.io/assets/pdf/socc24-fedcase.pdf){:target="\_blank"}: [[GitHub](https://github.com/rkhan055/FedCaSe){:target="\_blank"}]
-  * [FAST'23](https://www.usenix.org/conference/fast23/presentation/khan){:target="\_blank"}: [[GitHub](https://github.com/R-I-S-Khan/SHADE){:target="\_blank"}] 
 
 * **FaaS Platform Management:** We design innovative systems solutions to make FaaS truly elastic. A highly scalable container provisioning framework that can provision thousands of 10+GB serverless function containers with just a few seconds. **FaaSNet [ATC'21] and CIDRE [ASPLOS'25] are both deployed at** [Alibaba Function Compute](https://www.alibabacloud.com/product/function-compute){:target="\_blank"}.  
   * [CIDRE [ASPLOS'25]](https://tddg.github.io/assets/pdf/asplos25-cidre.pdf){:target="\_blank"}: [[GitHub](https://github.com/nzc5ve/cidre_asplos25){:target="\_target"}]
