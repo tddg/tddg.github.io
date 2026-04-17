@@ -24,11 +24,12 @@ the [University of Virginia](https://www.virginia.edu/){:target="\_blank"}.
 My research covers a range of topics including distributed systems,
 serverless and cloud computing, storage systems, operating systems,
 and high-performance computing. 
-My current research cares about building **sustainable and accessible** AI
-compute and storage infrastructure that supports **broader AI ecosystems**.
+My current research cares about building **sustainable and
+accessible** AI compute and storage infrastructure that supports
+**broader AI ecosystems**.
 
 Currently I am working on: 
-(1) **Sustainable storage for AI:** rethinking storage system for AI community platforms.
+(1) **Sustainable storage for AI:** rethinking storage system for AI community platforms;
 (2) **Accessible AI compute:** making AI hardware accelerators fundamentally elastic and accessible to everyone;
 (3) **Serverless and FaaS:** improving serverless computing using a
 end-to-end approach that cuts across the entire ecosystem 
@@ -54,7 +55,7 @@ storage systems.
 Most of my projects are open-source and available on our group's [GitHub page](https://github.com/ds2-lab){:target="\_blank"}.
 
 Our recent focus is on:
-1. Rethinking **storage system design** in the era of ***Sustainable GenAI***.
+1. Rethinking **storage system design** in the era of **Sustainable GenAI**.
 2. Designing **accessible AI infrastructure** for whoever needs **affordable AI compute resources**,
 
 I'm looking for motivated ***graduate/undergrad interns*** interested
@@ -71,6 +72,7 @@ For our most recent projects, check our latest [preprints and publication](https
   * [ELF [VLDB'24]](https://www.vldb.org/pvldb/vol17/p2036-su.pdf){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/ELF){:target="\_blank"}]
   * [SoCC'24](https://tddg.github.io/assets/pdf/socc24-fedcase.pdf){:target="\_blank"}: [[GitHub](https://github.com/rkhan055/FedCaSe){:target="\_blank"}]
   * [FAST'23](https://www.usenix.org/conference/fast23/presentation/khan){:target="\_blank"}: [[GitHub](https://github.com/R-I-S-Khan/SHADE){:target="\_blank"}] 
+
 
 * **Serverless AI:** We explore
 new serverless execution paradigms to enable accessible and affordable 
