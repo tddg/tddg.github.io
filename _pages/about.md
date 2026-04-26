@@ -67,7 +67,16 @@ are interested!  Also feel free to reach out via email.
 For our most recent projects, check our latest [preprints and publication](https://tddg.github.io/publication/).
 
  
-* **Storage Systems for AI:** We are rethinking storage system design to sustain the exponential AI data explosion. **ZipLLM** and **BitX** are new lossless compressing algorithms that reduce the LLM storage footprint by 50%.  **ELF** and **ELVES** near-losslessly compress ML models to achieve effective model storage reduction. SHADE and FedCaSe automatically and intelligently cache the most important training samples without losing training quality.  
+* **Storage Systems for AI:** We are rethinking storage system design to sustain the exponential AI data explosion. 
+**ZipLLM** and **BitX** are new lossless compressing algorithms that
+reduce the LLM storage footprint by 50%.  
+Built on the ZipLLM momentum, **TensorHub** exploits the hidden tensor relationships across 
+models in model hubs to achieve up to 71% lossless storage reduction!
+**ELF** and **ELVES** are our early effort along the line: 
+they near-losslessly compress ML models to achieve effective model
+storage reduction. SHADE and FedCaSe automatically and intelligently
+cache the most important training samples without losing training
+quality.  
   * [TensorHub preprint](https://arxiv.org/abs/2604.17104){:target="\_blank"}
   * [ZipLLM [NSDI'26]](https://arxiv.org/abs/2505.06252){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/ZipLLM){:target="\_blank"}]
   * [ELF [VLDB'24]](https://www.vldb.org/pvldb/vol17/p2036-su.pdf){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/ELF){:target="\_blank"}]
@@ -75,9 +84,10 @@ For our most recent projects, check our latest [preprints and publication](https
   * [FAST'23](https://www.usenix.org/conference/fast23/presentation/khan){:target="\_blank"}: [[GitHub](https://github.com/R-I-S-Khan/SHADE){:target="\_blank"}] 
 
 
-* **Serverless AI:** We explore
-new serverless execution paradigms to enable accessible and affordable 
-GPU resources and elastic GPU management for both training and inference. 
+* **Serverless AI:** 
+We explore new serverless execution paradigms to enable
+*fundamentally accessible and affordable* GPU resources and elastic
+GPU management for both training and inference. 
 **NotebookOS** implements on-demand
 GPUs for Jupyter Notebook-based interactive training workloads.
 **ZenFlow** accelerates LLM fine-tuning by prioritizing and
@@ -92,6 +102,7 @@ and KVC resizing.
   * [ZenFlow preprint](https://arxiv.org/abs/2505.12242){:target="\_blank"}
   * [λScale preprint [MLSys'26]](https://arxiv.org/abs/2502.09922){:target="\_blank"} 
   * [MorphServe preprint [MLSys'26]](https://arxiv.org/abs/2506.02006){:target="\_blank"} 
+
 
 * **FaaS Platform Management:** We design innovative systems solutions to make FaaS truly elastic. A highly scalable container provisioning framework that can provision thousands of 10+GB serverless function containers with just a few seconds. **FaaSNet [ATC'21] and CIDRE [ASPLOS'25] are both deployed at** [Alibaba Function Compute](https://www.alibabacloud.com/product/function-compute){:target="\_blank"}.  
   * [CIDRE [ASPLOS'25]](https://tddg.github.io/assets/pdf/asplos25-cidre.pdf){:target="\_blank"}: [[GitHub](https://github.com/nzc5ve/cidre_asplos25){:target="\_target"}]
