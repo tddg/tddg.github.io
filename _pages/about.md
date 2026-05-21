@@ -68,6 +68,7 @@ For our most recent projects, check our latest [preprints and publication](https
 
  
 * **Storage Systems for AI:** We are rethinking storage system design to sustain the exponential AI data explosion. 
+**LatentBox** is the first latent-first storage for large-scale AI-generated images.
 **ZipLLM** and **BitX** are new lossless compressing algorithms that
 reduce the LLM storage footprint by 50%.  
 Built on the ZipLLM momentum, **TStore** exploits the hidden tensor relationships across 
@@ -77,6 +78,7 @@ they near-losslessly compress ML models to achieve effective model
 storage reduction. SHADE and FedCaSe automatically and intelligently
 cache the most important training samples without losing training
 quality.  
+  * [LatentBox preprint](https://arxiv.org/abs/2605.19385v2){:target="\_blank"}
   * [TStore preprint](https://arxiv.org/abs/2604.17104){:target="\_blank"}
   * [ZipLLM [NSDI'26]](https://arxiv.org/abs/2505.06252){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/ZipLLM){:target="\_blank"}]
   * [ELF [VLDB'24]](https://www.vldb.org/pvldb/vol17/p2036-su.pdf){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/ELF){:target="\_blank"}]
