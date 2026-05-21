@@ -80,8 +80,8 @@ quality.
   * [TStore preprint](https://arxiv.org/abs/2604.17104){:target="\_blank"}
   * [ZipLLM [NSDI'26]](https://arxiv.org/abs/2505.06252){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/ZipLLM){:target="\_blank"}]
   * [ELF [VLDB'24]](https://www.vldb.org/pvldb/vol17/p2036-su.pdf){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/ELF){:target="\_blank"}]
-  * [SoCC'24](https://tddg.github.io/assets/pdf/socc24-fedcase.pdf){:target="\_blank"}: [[GitHub](https://github.com/rkhan055/FedCaSe){:target="\_blank"}]
-  * [FAST'23](https://www.usenix.org/conference/fast23/presentation/khan){:target="\_blank"}: [[GitHub](https://github.com/R-I-S-Khan/SHADE){:target="\_blank"}] 
+  * [FedCaSe [SoCC'24]](https://tddg.github.io/assets/pdf/socc24-fedcase.pdf){:target="\_blank"}: [[GitHub](https://github.com/rkhan055/FedCaSe){:target="\_blank"}]
+  * [SHADE [FAST'23]](https://www.usenix.org/conference/fast23/presentation/khan){:target="\_blank"}: [[GitHub](https://github.com/R-I-S-Khan/SHADE){:target="\_blank"}] 
 
 
 * **Serverless AI:** 
@@ -114,7 +114,7 @@ and KVC resizing.
   * [InfiniCache [FAST'20]](https://www.usenix.org/conference/fast20/presentation/wang-ao){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/infinicache){:target="\_blank"}]
 
 * **Serverless Parallel Computing:** Scaling out Python parallel programs (e.g., Dask applications) on FaaS without worrying about tedious cluster management. Wukong uses a new decentralized scheduling technique, which decentralizes resource orchestration to each individual serverless function, thereby enabling high elasticity and high scalability.  
-  * [SoCC'20](https://tddg.github.io/assets/pdf/socc20-wukong.pdf){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/Wukong){:target="\_blank"}]
+  * [Wukong [SoCC'20]](https://tddg.github.io/assets/pdf/socc20-wukong.pdf){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/Wukong){:target="\_blank"}]
   * [PDSW'19](https://arxiv.org/abs/1910.05896){:target="\_blank"}
   
 * **Serverless Function OS Scheduling:** Linux CFS is not ideal for
