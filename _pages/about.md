@@ -101,8 +101,8 @@ minimizing GPU stalls while preserving accuracy.
 bursty LLM inference workloads via dynamic model layer quantization
 and KVC resizing. 
   * [NotebookOS [ASPLOS'26]](https://arxiv.org/abs/2503.20591){:target="\_blank"}
-  * [λScale preprint [MLSys'26]](https://arxiv.org/abs/2502.09922){:target="\_blank"} 
-  * [MorphServe preprint [MLSys'26]](https://arxiv.org/abs/2506.02006){:target="\_blank"} 
+  * [FaaScale [MLSys'26]](https://mlsys.org/virtual/2026/oral/3769){:target="\_blank"} 
+  * [MorphServe [MLSys'26]](https://mlsys.org/virtual/2026/oral/3816){:target="\_blank"} 
   * [ZenFlow [SIGMOD'27]](https://arxiv.org/abs/2505.12242){:target="\_blank"}
 
 
