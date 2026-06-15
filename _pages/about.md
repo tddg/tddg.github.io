@@ -90,6 +90,8 @@ samples without losing training quality.
 We explore new serverless execution paradigms to enable
 *fundamentally accessible and affordable* GPU resources and elastic
 GPU management for both training and inference. 
+**C2CServe** uses new GEMM mechanism to allow model weights
+to reside in CPU memory and to be streamed on demand to MIG instances. 
 **NotebookOS** implements on-demand
 GPUs for Jupyter Notebook-based interactive training workloads.
 **ZenFlow** accelerates LLM fine-tuning by prioritizing and
@@ -100,6 +102,7 @@ minimizing GPU stalls while preserving accuracy.
 **MorphServe** enables flexible and elastic GPU memory scaling for
 bursty LLM inference workloads via dynamic model layer quantization
 and KVC resizing. 
+  * [C2CServe preprint](https://arxiv.org/abs/2605.19481){:target="\_blank"} 
   * [NotebookOS [ASPLOS'26]](https://arxiv.org/abs/2503.20591){:target="\_blank"}
   * [FaaScale [MLSys'26]](https://mlsys.org/virtual/2026/oral/3769){:target="\_blank"} 
   * [MorphServe [MLSys'26]](https://mlsys.org/virtual/2026/oral/3816){:target="\_blank"} 
