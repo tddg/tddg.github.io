@@ -103,10 +103,10 @@ minimizing GPU stalls while preserving accuracy.
 bursty LLM inference workloads via dynamic model layer quantization
 and KVC resizing. 
   * [C2CServe preprint](https://arxiv.org/abs/2605.19481){:target="\_blank"} 
+  * [ZenFlow [SIGMOD'27]](https://arxiv.org/abs/2505.12242){:target="\_blank"}
   * [NotebookOS [ASPLOS'26]](https://arxiv.org/abs/2503.20591){:target="\_blank"}
   * [FaaScale [MLSys'26]](https://mlsys.org/virtual/2026/oral/3769){:target="\_blank"} 
   * [MorphServe [MLSys'26]](https://mlsys.org/virtual/2026/oral/3816){:target="\_blank"} 
-  * [ZenFlow [SIGMOD'27]](https://arxiv.org/abs/2505.12242){:target="\_blank"}
 
 
 * **FaaS Platform Management:** We design innovative systems solutions to make FaaS truly elastic. A highly scalable container provisioning framework that can provision thousands of 10+GB serverless function containers with just a few seconds. **FaaSNet [ATC'21] and CIDRE [ASPLOS'25] are both deployed at** [Alibaba Function Compute](https://www.alibabacloud.com/product/function-compute){:target="\_blank"}.  
