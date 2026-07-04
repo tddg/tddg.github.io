@@ -109,10 +109,14 @@ and KVC resizing.
   * [MorphServe [MLSys'26]](https://mlsys.org/virtual/2026/oral/3816){:target="\_blank"} 
 
 
-* **FaaS Platform Management:** We design innovative systems solutions to make FaaS truly elastic. A highly scalable container provisioning framework that can provision thousands of 10+GB serverless function containers with just a few seconds. **FaaSNet [ATC'21] and CIDRE [ASPLOS'25] are both deployed at** [Alibaba Function Compute](https://www.alibabacloud.com/product/function-compute){:target="\_blank"}.  
+* **FaaS Infrastructure:** We design innovative systems solutions to make FaaS truly elastic. A highly scalable container provisioning framework that can provision thousands of 10+GB serverless function containers with just a few seconds. **FaaSNet [ATC'21] and CIDRE [ASPLOS'25] are both deployed at** [Alibaba Function Compute](https://www.alibabacloud.com/product/function-compute){:target="\_blank"}.  
   * [CIDRE [ASPLOS'25]](https://tddg.github.io/assets/pdf/asplos25-cidre.pdf){:target="\_blank"}: [[GitHub](https://github.com/nzc5ve/cidre_asplos25){:target="\_target"}]
+  * [ALPS [ATC'24]](https://tddg.github.io/assets/pdf/atc24-alps-ae.pdf){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/ALPS){:target="\_blank"}]
+  * [SFS [SC'22]](https://arxiv.org/abs/2209.01709){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/SFS){:target="\_blank"}] 
   * [FaaSNet [ATC'21]](https://www.usenix.org/conference/atc21/presentation/wang-ao){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/FaaSNet){:target="\_target"}] [[Alibaba Cloud Blog](https://www.alibabacloud.com/blog/597937){:target="\_blank"}] 
+  * [Wukong [SoCC'20]](https://tddg.github.io/assets/pdf/socc20-wukong.pdf){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/Wukong){:target="\_blank"}]
 
+<!--
 * **Serverless Cloud Storage:** Storing large and small objects on a dynamic fleet of serverless functions with only 3% of ElastiCache's cost but without sacrificing performance and availability.  
   * [λFS [ASPLOS'23]](https://tddg.github.io/assets/pdf/asplos23-lambdafs-ae.pdf){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/LambdaFS){:target="\_blank"}] 
   * [InfiniStore [VLDB'23]](https://tddg.github.io/assets/pdf/vldb23-infinistore.pdf){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/infinistore){:target="\_blank"}] 
@@ -127,7 +131,7 @@ short-lived serverless function workloads. This project rethinks OS
 scheduling to minimize function turnaround time.  
   * [ALPS [ATC'24]](https://tddg.github.io/assets/pdf/atc24-alps-ae.pdf){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/ALPS){:target="\_blank"}]
   * [SFS [SC'22]](https://arxiv.org/abs/2209.01709){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/SFS){:target="\_blank"}] 
-
+-->
 
 
 
