@@ -79,7 +79,7 @@ achieve effective model storage reduction. SHADE and FedCaSe
 automatically and intelligently cache the most important training
 samples without losing training quality.  
   * [LatentBox preprint](https://arxiv.org/abs/2605.19385v2){:target="\_blank"}
-  * [TStore preprint](https://arxiv.org/abs/2604.17104){:target="\_blank"}
+  * [TensorDex preprint [SOSP'26]](https://arxiv.org/abs/2604.17104){:target="\_blank"}
   * [ZipLLM [NSDI'26]](https://arxiv.org/abs/2505.06252){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/ZipLLM){:target="\_blank"}]
   * [ELF [VLDB'24]](https://www.vldb.org/pvldb/vol17/p2036-su.pdf){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/ELF){:target="\_blank"}]
   * [FedCaSe [SoCC'24]](https://tddg.github.io/assets/pdf/socc24-fedcase.pdf){:target="\_blank"}: [[GitHub](https://github.com/rkhan055/FedCaSe){:target="\_blank"}]
