@@ -71,7 +71,7 @@ For our most recent projects, check our latest [preprints and publication](https
 **LatentBox** is the first latent-first storage for large-scale
 AI-generated images.  **ZipLLM** and **BitX** are new lossless
 compressing algorithms that reduce the LLM storage footprint by 50%.
-Built on the ZipLLM momentum, **TStore** exploits the hidden tensor
+Built on the ZipLLM momentum, **TensorDex** exploits the hidden tensor
 relationships across models in model hubs to achieve up to 71%
 lossless storage reduction!  **ELF** and **ELVES** are our early
 effort along the line: they near-losslessly compress ML models to
