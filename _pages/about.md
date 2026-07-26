@@ -33,7 +33,7 @@ Currently I am working on:
 (2) **Accessible AI compute:** making AI hardware accelerators fundamentally elastic and accessible to everyone;
 (3) **Serverless and FaaS:** improving serverless computing using a
 end-to-end approach that cuts across the entire ecosystem 
-stack: *applications, frameworks, platforms, and OS*; 
+stack: *applications, frameworks, platforms, and OS*. 
 
 I am the recipient of an 
 [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2322860&HistoricalAwards=false){:target="\_blank"} (2021), 
