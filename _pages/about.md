@@ -29,7 +29,7 @@ accessible** AI compute and storage infrastructure that supports
 **broader AI ecosystems**.
 
 Currently I am working on: 
-(1) **Sustainable storage for AI:** rethinking storage system for AI community platforms;
+(1) **Storage for AI:** rethinking storage system for AI community platforms;
 (2) **Accessible AI compute:** making AI hardware accelerators fundamentally elastic and accessible to everyone;
 (3) **Serverless and FaaS:** improving serverless computing using a
 end-to-end approach that cuts across the entire ecosystem 
@@ -50,22 +50,22 @@ and 2014, and six months at Dell EMC Princeton Office in 2015, all on
 storage systems.  
 
 
+> 📢 **Openings:** My lab has openings at all levels — PhD/MS/BS
+students, research interns, and visiting students, with flexible
+start dates, to work on exciting research on AI systems. Feel free to reach out via email. 
+Check our [recent publications](https://tddg.github.io/publication/)
+for details.
+
+
 ## selected projects
 
 Most of my projects are open-source and available on our group's [GitHub page](https://github.com/ds2-lab){:target="\_blank"}.
 
 Our recent focus is on:
-1. Rethinking **storage system design** in the era of **Sustainable GenAI**.
-2. Designing **accessible AI infrastructure** for whoever needs **affordable AI compute resources**,
+1. Rethinking **storage system design** in the era of **Generative AI**.
+2. Designing **accessible AI infrastructure** for whoever needs **affordable AI compute resources**.
 
-I'm looking for motivated ***graduate/undergrad interns*** interested
-in conducting research in cutting-edge LLM systems areas
-(serverless AI, LLM agents, storage for ML/AI models/datasets).
-Please fill out this [form](https://forms.gle/XgYMd6ULLbxesEuj7) if you
-are interested!  Also feel free to reach out via email.
-
-For our most recent projects, check our latest [preprints and publication](https://tddg.github.io/publication/).
-
+Check our recent projects below:
  
 * **Storage Systems for AI:** We are rethinking storage system design to sustain the exponential AI data explosion. 
 **LatentStore** is the first latent-first storage for large-scale
@@ -79,7 +79,7 @@ achieve effective model storage reduction. SHADE and FedCaSe
 automatically and intelligently cache the most important training
 samples without losing training quality.  
   * [LatentStore preprint [NSDI'27]](https://arxiv.org/abs/2605.19385v2){:target="\_blank"}
-  * [TensorDex preprint [SOSP'26]](https://arxiv.org/abs/2604.17104){:target="\_blank"}
+  * [TensorDex preprint [SOSP'26]](https://dl.acm.org/doi/10.1145/3830418.3843872){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/TensorDex){:target="\_blank"}]
   * [ZipLLM [NSDI'26]](https://arxiv.org/abs/2505.06252){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/ZipLLM){:target="\_blank"}]
   * [ELF [VLDB'24]](https://www.vldb.org/pvldb/vol17/p2036-su.pdf){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/ELF){:target="\_blank"}]
   * [FedCaSe [SoCC'24]](https://tddg.github.io/assets/pdf/socc24-fedcase.pdf){:target="\_blank"}: [[GitHub](https://github.com/rkhan055/FedCaSe){:target="\_blank"}]
