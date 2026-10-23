@@ -78,7 +78,7 @@ effort along the line: they near-losslessly compress ML models to
 achieve effective model storage reduction. SHADE and FedCaSe
 automatically and intelligently cache the most important training
 samples without losing training quality.  
-  * [LatentStore preprint [NSDI'27]](https://arxiv.org/abs/2605.19385v2){:target="\_blank"}
+  * [LatentStore preprint [NSDI'27]](https://arxiv.org/abs/2605.19385){:target="\_blank"}
   * [TensorDex [SOSP'26]](https://dl.acm.org/doi/10.1145/3830418.3843872){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/TensorDex){:target="\_blank"}]
   * [ZipLLM [NSDI'26]](https://arxiv.org/abs/2505.06252){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/ZipLLM){:target="\_blank"}]
   * [ELF [VLDB'24]](https://www.vldb.org/pvldb/vol17/p2036-su.pdf){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/ELF){:target="\_blank"}]
