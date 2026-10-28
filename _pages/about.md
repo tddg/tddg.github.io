@@ -92,8 +92,8 @@ We explore new serverless execution paradigms to enable
 GPU management for both training and inference. 
 **C2CServe** uses new GEMM mechanism to allow model weights
 to reside in CPU memory and to be streamed on demand to MIG instances. 
-**NotebookOS** implements on-demand
-GPUs for Jupyter Notebook-based interactive training workloads.
+**LooseLeaf** and **NotebookOS** implement on-demand
+GPUs for interactive notebook workloads.
 **ZenFlow** accelerates LLM fine-tuning by prioritizing and
 decoupling parameter updates across fast GPU and slow CPU,
 minimizing GPU stalls while preserving accuracy. 
@@ -102,6 +102,7 @@ minimizing GPU stalls while preserving accuracy.
 **MorphServe** enables flexible and elastic GPU memory scaling for
 bursty LLM inference workloads via dynamic model layer quantization
 and KVC resizing. 
+  * [LooseLeaf preprint](https://arxiv.org/abs/2610.33275){:target="\_blank"}
   * [C2CServe preprint](https://arxiv.org/abs/2605.19481){:target="\_blank"} 
   * [ZeRO-Prefill preprint [NSDI'27]](https://arxiv.org/abs/2605.02960){:target="\_blank"} 
   * [ZenFlow [SIGMOD'27]](https://arxiv.org/abs/2505.12242){:target="\_blank"}
