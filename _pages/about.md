@@ -62,7 +62,6 @@ for details.
 ## selected projects
 
 Most of my projects are open-source and available on our group's [GitHub page](https://github.com/ds2-lab){:target="\_blank"}.
-Check our recent projects below:
  
 * **Storage Systems for AI:**  
   * [AI-gen content modeling preprint](https://arxiv.org/abs/2609.30448){:target="\_blank"}
