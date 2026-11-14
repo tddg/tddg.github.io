@@ -1,3 +1,4 @@
+{%- if jekyll.environment == "production" -%}
 {%- if site.enable_google_analytics -%}
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
@@ -34,4 +35,5 @@ src="https://c.statcounter.com/12785761/0/0aee54c5/1/"
 alt="Web Analytics"
 referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 <!-- End of Statcounter Code -->
+{%- endif -%}
 {%- endif -%}
