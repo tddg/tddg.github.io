@@ -29,11 +29,12 @@ accessible** AI compute and storage infrastructure that supports
 **broader AI ecosystems**.
 
 Currently I am working on: 
-(1) **Storage for AI:** rethinking storage system for AI community platforms;
-(2) **Accessible AI compute:** making AI hardware accelerators fundamentally elastic and accessible to everyone;
-(3) **Serverless and FaaS:** improving serverless computing using a
-end-to-end approach that cuts across the entire ecosystem 
-stack: *applications, frameworks, platforms, and OS*. 
+(1) **Rethinking Storage System Abstraction for AI:** rethinking storage system designs to sustain the exponential AI data explosion;
+(2) **Rethinking AI Compute and Resource Allocation:** enabling elastic and affordable GPU resources for both training and inference;
+(3) **Advancing Serverless Computing Foundation:** improving
+serverless computing using a end-to-end approach that cuts across the
+entire system stack, spanning *applications, frameworks, platforms, and
+OS*. 
 
 I am the recipient of an 
 [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2322860&HistoricalAwards=false){:target="\_blank"} (2021), 
@@ -61,13 +62,6 @@ for details.
 ## selected projects
 
 Most of my projects are open-source and available on our group's [GitHub page](https://github.com/ds2-lab){:target="\_blank"}.
-
-Our recent focus is on:
-1. **Rethinking storage system abstraction for AI**.
-2. **Rethinking AI compute and resource allocation**.
-3. **Advancing serverless computing foundation**.
-
-
 Check our recent projects below:
  
 * **Storage Systems for AI:**  
