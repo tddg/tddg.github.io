@@ -57,65 +57,43 @@ Check our [recent publications](https://tddg.github.io/publication/)
 for details.
 
 
+
 ## selected projects
 
 Most of my projects are open-source and available on our group's [GitHub page](https://github.com/ds2-lab){:target="\_blank"}.
 
 Our recent focus is on:
-1. Rethinking **storage system design** in the era of **Generative AI**.
-2. Designing **accessible AI infrastructure** for whoever needs **affordable AI compute resources**.
+1. **Rethinking storage system abstraction for AI**.
+2. **Rethinking AI compute and resource allocation**.
+3. **Advancing serverless computing foundation**.
+
 
 Check our recent projects below:
  
-* **Storage Systems for AI:** We are rethinking storage system design to sustain the exponential AI data explosion. 
-**LatentStore** is the first latent-first storage for large-scale
-AI-generated images.  **ZipLLM** and **BitX** are new lossless
-compressing algorithms that reduce the LLM storage footprint by 50%.
-Built on the ZipLLM momentum, **TensorDex** exploits the hidden tensor
-relationships across models in model hubs to achieve up to 71%
-lossless storage reduction!  **ELF** and **ELVES** are our early
-effort along the line: they near-losslessly compress ML models to
-achieve effective model storage reduction. SHADE and FedCaSe
-automatically and intelligently cache the most important training
-samples without losing training quality.  
+* **Storage Systems for AI:**  
+  * [AI-gen content modeling preprint](https://arxiv.org/abs/2609.30448){:target="\_blank"}
   * [LatentStore preprint [NSDI'27]](https://arxiv.org/abs/2605.19385){:target="\_blank"}
   * [TensorDex [SOSP'26]](https://dl.acm.org/doi/10.1145/3830418.3843872){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/TensorDex){:target="\_blank"}]
   * [ZipLLM [NSDI'26]](https://arxiv.org/abs/2505.06252){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/ZipLLM){:target="\_blank"}]
   * [ELF [VLDB'24]](https://www.vldb.org/pvldb/vol17/p2036-su.pdf){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/ELF){:target="\_blank"}]
-  * [FedCaSe [SoCC'24]](https://tddg.github.io/assets/pdf/socc24-fedcase.pdf){:target="\_blank"}: [[GitHub](https://github.com/rkhan055/FedCaSe){:target="\_blank"}]
   * [SHADE [FAST'23]](https://www.usenix.org/conference/fast23/presentation/khan){:target="\_blank"}: [[GitHub](https://github.com/R-I-S-Khan/SHADE){:target="\_blank"}] 
 
 
-* **Serverless AI:** 
-We explore new serverless execution paradigms to enable
-*fundamentally accessible and affordable* GPU resources and elastic
-GPU management for both training and inference. 
-**C2CServe** uses new GEMM mechanism to allow model weights
-to reside in CPU memory and to be streamed on demand to MIG instances. 
-**LooseLeaf** and **NotebookOS** implement on-demand
-GPUs for interactive notebook workloads.
-**ZenFlow** accelerates LLM fine-tuning by prioritizing and
-decoupling parameter updates across fast GPU and slow CPU,
-minimizing GPU stalls while preserving accuracy. 
-**ZenFlow had been adopted into
-[DeepSpeed](https://pytorch.org/blog/zenflow-stall-free-offloading-engine-for-llm-training/).** 
-**MorphServe** enables flexible and elastic GPU memory scaling for
-bursty LLM inference workloads via dynamic model layer quantization
-and KVC resizing. 
+* **AI Compute and Resource Allocation:** 
   * [LooseLeaf preprint](https://arxiv.org/abs/2610.33275){:target="\_blank"}
   * [C2CServe preprint](https://arxiv.org/abs/2605.19481){:target="\_blank"} 
   * [ZeRO-Prefill preprint [NSDI'27]](https://arxiv.org/abs/2605.02960){:target="\_blank"} 
-  * [ZenFlow [SIGMOD'27]](https://arxiv.org/abs/2505.12242){:target="\_blank"}
-  * [NotebookOS [ASPLOS'26]](https://arxiv.org/abs/2503.20591){:target="\_blank"}
-  * [FaaScale [MLSys'26]](https://mlsys.org/virtual/2026/oral/3769){:target="\_blank"} 
+  * [ZenFlow [SIGMOD'27]](https://arxiv.org/abs/2505.12242){:target="\_blank"} [[GitHub](https://github.com/deepspeedai/DeepSpeed/tree/master/deepspeed/runtime/zenflow){:target="\_blank"}]
+  * [NotebookOS [ASPLOS'26]](https://arxiv.org/abs/2503.20591){:target="\_blank"} [[GitHub](https://github.com/ds2-lab/NotebookOS){:target="\_blank"}]
+  * [FaaScale [MLSys'26]](https://mlsys.org/virtual/2026/oral/3769){:target="\_blank"} [[GitHub](https://github.com/lambda-scale/lambda-scale){:target="\_blank"}]  
   * [MorphServe [MLSys'26]](https://mlsys.org/virtual/2026/oral/3816){:target="\_blank"} 
 
 
-* **FaaS Infrastructure:** We design innovative systems solutions to make FaaS truly elastic. A highly scalable container provisioning framework that can provision thousands of 10+GB serverless function containers with just a few seconds. **FaaSNet [ATC'21] and CIDRE [ASPLOS'25] are both deployed at** [Alibaba Function Compute](https://www.alibabacloud.com/product/function-compute){:target="\_blank"}.  
+* **Serverless Computing Foundation:**   
   * [CIDRE [ASPLOS'25]](https://tddg.github.io/assets/pdf/asplos25-cidre.pdf){:target="\_blank"}: [[GitHub](https://github.com/nzc5ve/cidre_asplos25){:target="\_target"}]
   * [ALPS [ATC'24]](https://tddg.github.io/assets/pdf/atc24-alps-ae.pdf){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/ALPS){:target="\_blank"}]
   * [SFS [SC'22]](https://arxiv.org/abs/2209.01709){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/SFS){:target="\_blank"}] 
-  * [FaaSNet [ATC'21]](https://www.usenix.org/conference/atc21/presentation/wang-ao){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/FaaSNet){:target="\_target"}] [[Alibaba Cloud Blog](https://www.alibabacloud.com/blog/597937){:target="\_blank"}] 
+  * [FaaSNet [ATC'21]](https://www.usenix.org/conference/atc21/presentation/wang-ao){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/FaaSNet){:target="\_target"}] [[Alibaba Cloud Blog](https://www.alibabacloud.com/blog/597937){:target="\_blank"}] [[OverlayBD](https://containerd.github.io/overlaybd/#/){:target="\_blank"}]
   * [Wukong [SoCC'20]](https://tddg.github.io/assets/pdf/socc20-wukong.pdf){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/Wukong){:target="\_blank"}]
   * [λFS [ASPLOS'23]](https://tddg.github.io/assets/pdf/asplos23-lambdafs-ae.pdf){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/LambdaFS){:target="\_blank"}] 
   * [InfiniStore [VLDB'23]](https://tddg.github.io/assets/pdf/vldb23-infinistore.pdf){:target="\_blank"}: [[GitHub](https://github.com/ds2-lab/infinistore){:target="\_blank"}] 
